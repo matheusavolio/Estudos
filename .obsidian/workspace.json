@@ -11,12 +11,8 @@
             "id": "92294230c76832d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem título.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sem título.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,8 +148,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "503ba964d621ca23",
+  "active": "92294230c76832d2",
   "lastOpenFiles": [
+    "Sem título.md",
     "Java-Dio/Escopo.md",
     "Mapas Mentais Python/Mapa mental Tratamento de Erro e Exceção.md",
     "Estudos",
@@ -169,7 +162,6 @@
     "PDFs e imgs/Contribuindo em um Projeto Open Source no GitHub.pdf",
     "Roteiro de estudos/Roteiro.md",
     "PDFs e imgs/git-guia-basico.pdf",
-    "Sem título.md",
     "Python/Tratamento de erros e exceções.md",
     "Python/Modularização e Pacotes.md",
     "MySQL",
