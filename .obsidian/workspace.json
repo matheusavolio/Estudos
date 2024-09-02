@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "e51313a2e7e491a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc630995f159f3e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92294230c76832d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mapas Mentais Python/Mapa mental Tratamento de Erro e Exceção.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "723639f685dc0ff3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDFs e imgs/Contribuindo em um Projeto Open Source no GitHub.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d20057fdd7e81e82",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c4f18339223f762",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "503ba964d621ca23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f0dd0a929bb23af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "463860d5cac3ca7f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0163a8b2d06de4ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "cba041e2435ba17e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d420fed0fbbddc01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mapas Mentais Python/Mapa mental Tratamento de Erro e Exceção.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53ea41f2c92d98bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mapas Mentais Python/Mapa mental Tratamento de Erro e Exceção.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fc7abf5123f01a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f60f993aec9aebe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mapas Mentais Python/Mapa mental Tratamento de Erro e Exceção.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "503ba964d621ca23",
+  "lastOpenFiles": [
+    "Estudos",
+    "Mapas Mentais Python/Mapa mental operadores de lógicos.md",
+    "Python/while, break e continue.md",
+    "Python/Concatenação.md",
+    "Mapas Mentais Python/Atalhos vscode.md",
+    "MySQL/O que é um Banco de Dados.md",
+    "PDFs e imgs/Contribuindo em um Projeto Open Source no GitHub.pdf",
+    "Roteiro de estudos/Roteiro.md",
+    "PDFs e imgs/git-guia-basico.pdf",
+    "Sem título.md",
+    "Python/Tratamento de erros e exceções.md",
+    "Python/Modularização e Pacotes.md",
+    "MySQL",
+    "Python/While - Else.md",
+    "Git e GitHub/Mapa Mental de Como Utilizar Git e GitHub.md",
+    "Mapas Mentais Python/Mapa mental listas.md",
+    "Mapas Mentais Python/Mapa Mental manipulação de arquivo .txt.md",
+    "Scrum/Scrum - Guia.md",
+    "Mapas Mentais Python/Mapa mental Tratamento de Erro e Exceção.md",
+    "Mapas Mentais Python/Bibliotecas e seus módulos.md",
+    "Python/Dicionários.md",
+    "Python/Cores no terminal.md",
+    "Roteiro de estudos",
+    "Python/Operadores lógicos.md",
+    "Mapas Mentais Python/Funções2.md",
+    "Mapas Mentais Python/Mapa mental dicionários.md",
+    "Mapas Mentais Python/Mapa mental estrutura sequencial.md",
+    "Mapas Mentais Python/Mapa mental estruturas condicionais(decisão).md",
+    "Mapas Mentais Python/Mapa mental estruturas de repetição.md",
+    "Mapas Mentais Python/Mapa mental fatiamento, Análise, Transformação e Divisão de strings..md",
+    "PDFs e imgs/Scrum-Guide-Portuguese-BR.pdf",
+    "Scrum",
+    "PDFs e imgs/Pasted image 20240820001633.png",
+    "PDFs e imgs/Pasted image 20240820001556.png",
+    "PDFs e imgs",
+    "PDFs e imgs/Versionamento de Código com Git e GitHub (1).pdf",
+    "Icon.jpeg",
+    "Versionamento de Código com Git e GitHub (1) 1.pdf"
+  ]
+}
