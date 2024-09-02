@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mapas Mentais Python/Mapa mental Tratamento de Erro e Exceção.md",
+                "file": "Sem título.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mapas Mentais Python/Mapa mental Tratamento de Erro e Exceção.md",
+                "file": "Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mapas Mentais Python/Mapa mental Tratamento de Erro e Exceção.md",
+                "file": "Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mapas Mentais Python/Mapa mental Tratamento de Erro e Exceção.md"
+                "file": "Sem título.md"
               }
             }
           }
@@ -153,12 +153,13 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "omnisearch:Omnisearch": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "503ba964d621ca23",
   "lastOpenFiles": [
+    "Java-Dio/Escopo.md",
+    "Mapas Mentais Python/Mapa mental Tratamento de Erro e Exceção.md",
     "Estudos",
     "Mapas Mentais Python/Mapa mental operadores de lógicos.md",
     "Python/while, break e continue.md",
@@ -177,7 +178,6 @@
     "Mapas Mentais Python/Mapa mental listas.md",
     "Mapas Mentais Python/Mapa Mental manipulação de arquivo .txt.md",
     "Scrum/Scrum - Guia.md",
-    "Mapas Mentais Python/Mapa mental Tratamento de Erro e Exceção.md",
     "Mapas Mentais Python/Bibliotecas e seus módulos.md",
     "Python/Dicionários.md",
     "Python/Cores no terminal.md",
