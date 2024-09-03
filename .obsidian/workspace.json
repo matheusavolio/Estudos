@@ -24,8 +24,21 @@
                 "file": "PDFs e imgs/Contribuindo em um Projeto Open Source no GitHub.pdf"
               }
             }
+          },
+          {
+            "id": "6921ee59525e653e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Conceitos de Programação.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/Conceitos de Programação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/Conceitos de Programação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,16 +167,18 @@
   },
   "active": "503ba964d621ca23",
   "lastOpenFiles": [
-    "Java-Dio/Tipos e variáveis.md",
-    "Java-Dio/Terminal e Argumentos.md",
-    "Java-Dio/Palavras Reservadas.md",
-    "Java-Dio/Operadores.md",
-    "Java-Dio/Métodos.md",
-    "Java-Dio/Java Doc.md",
-    "Java-Dio/Introdução ao java.md",
-    "Java-Dio/Anatomia das Classes.md",
-    "Java-Dio/Escopo.md",
-    "Java-Dio",
+    "Java/Conceitos de Programação.md",
+    "Java",
+    "Java/Java-Dio/Tipos e variáveis.md",
+    "Java/Java-Dio/Terminal e Argumentos.md",
+    "Java/Java-Dio/Palavras Reservadas.md",
+    "Java/Java-Dio/Operadores.md",
+    "Java/Java-Dio/Métodos.md",
+    "Java/Java-Dio/Java Doc.md",
+    "Java/Java-Dio/Introdução ao java.md",
+    "Java/Java-Dio/Anatomia das Classes.md",
+    "Java/Java-Dio/Escopo.md",
+    "Java/Java-Dio",
     "Java/Conceitos de Programação.md",
     "Java",
     "Java/Java-Dio/Escopo.md",
@@ -183,13 +200,11 @@
     "Mapas Mentais Python/Mapa mental listas.md",
     "Mapas Mentais Python/Mapa Mental manipulação de arquivo .txt.md",
     "Scrum/Scrum - Guia.md",
-    "Mapas Mentais Python/Bibliotecas e seus módulos.md",
     "Roteiro de estudos",
     "PDFs e imgs/Scrum-Guide-Portuguese-BR.pdf",
     "Scrum",
     "PDFs e imgs/Pasted image 20240820001633.png",
     "PDFs e imgs/Pasted image 20240820001556.png",
-    "PDFs e imgs",
     "Icon.jpeg"
   ]
 }
