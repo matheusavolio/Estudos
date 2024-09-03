@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f0e8bc49bfefa4e9",
+        "id": "f0eaa891ba73d800",
         "type": "tabs",
         "children": [
           {
-            "id": "f05029b7da8ee742",
+            "id": "6f588c0d8c6e9e0d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AWS/Visão geral de nuvem/Seção 2 - Vantagens da computação em nuvem.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -140,14 +138,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "503ba964d621ca23",
+  "active": "6f588c0d8c6e9e0d",
   "lastOpenFiles": [
     "AWS/Visão geral de nuvem/Seção 2 - Vantagens da computação em nuvem.md",
     "AWS/Visão geral de nuvem/Seção 1 - Introdução a computação em nuvem.md",
     "AWS/Visão geral de nuvem",
+    "AWS",
     "Sem título.md",
     "Pasted image 20240903164405.png",
-    "AWS",
     "Java/Lógica_Algoritmos_Java/Conceitos de Programação.md",
     "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
     "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
@@ -178,7 +176,6 @@
     "MySQL/O que é um Banco de Dados.md",
     "Python/Tratamento de erros e exceções.md",
     "Python/Modularização e Pacotes.md",
-    "Python/While - Else.md",
     "PDFs e imgs/Pasted image 20240820001633.png",
     "PDFs e imgs/Pasted image 20240820001556.png",
     "Icon.jpeg"
