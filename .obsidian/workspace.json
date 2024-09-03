@@ -11,34 +11,28 @@
             "id": "92294230c76832d2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "723639f685dc0ff3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PDFs e imgs/Contribuindo em um Projeto Open Source no GitHub.pdf"
+                "file": "Java/Lógica_Algoritmos_Java/Conceitos de Programação.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "6921ee59525e653e",
+            "id": "00ad4154ae2cb19d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Conceitos de Programação.md",
+                "file": "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Compilação",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Conceitos de Programação.md",
+                "file": "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Conceitos de Programação.md",
+                "file": "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Conceitos de Programação.md"
+                "file": "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md"
               }
             }
           }
@@ -165,44 +159,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "503ba964d621ca23",
+  "active": "00ad4154ae2cb19d",
   "lastOpenFiles": [
-    "Java/Conceitos de Programação.md",
+    "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+    "PDFs e imgs/introducao-linguagem-java 1.pdf",
+    "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
+    "introducao-linguagem-java.pdf",
+    "Java/Lógica_Algoritmos_Java/Conceitos de Programação.md",
+    "Java/Lógica_Algoritmos_Java",
+    "Anotações_cursos_2",
+    "Curso-Java-COMPLETO.pdf",
+    "02-conceitos-de-programacao 1.pdf",
+    "PDFs e imgs/02-conceitos-de-programacao.pdf",
+    "Roteiro de estudos/Roteiro.md",
+    "PDFs e imgs/Curso-Java-COMPLETO.pdf",
     "Java",
-    "Java/Java-Dio/Tipos e variáveis.md",
-    "Java/Java-Dio/Terminal e Argumentos.md",
-    "Java/Java-Dio/Palavras Reservadas.md",
-    "Java/Java-Dio/Operadores.md",
-    "Java/Java-Dio/Métodos.md",
-    "Java/Java-Dio/Java Doc.md",
-    "Java/Java-Dio/Introdução ao java.md",
-    "Java/Java-Dio/Anatomia das Classes.md",
-    "Java/Java-Dio/Escopo.md",
-    "Java/Java-Dio",
-    "Java/Conceitos de Programação.md",
-    "Java",
-    "Java/Java-Dio/Escopo.md",
+    "Anotações_cursos_2/Java-Dio/Tipos e variáveis.md",
+    "Anotações_cursos_2/Java-Dio/Terminal e Argumentos.md",
+    "Anotações_cursos_2/Java-Dio/Palavras Reservadas.md",
+    "Anotações_cursos_2/Java-Dio/Operadores.md",
+    "Anotações_cursos_2/Java-Dio/Métodos.md",
+    "Anotações_cursos_2/Java-Dio/Java Doc.md",
+    "Anotações_cursos_2/Java-Dio/Introdução ao java.md",
+    "Anotações_cursos_2/Java-Dio/Anatomia das Classes.md",
+    "Anotações_cursos_2/Java-Dio/Escopo.md",
+    "Anotações_cursos_2/Java-Dio",
+    "Anotações_cursos_2/Java-Dio/Escopo.md",
     "Mapas Mentais Python/Mapa mental Tratamento de Erro e Exceção.md",
-    "Estudos",
     "Mapas Mentais Python/Mapa mental operadores de lógicos.md",
     "Python/while, break e continue.md",
     "Python/Concatenação.md",
     "Mapas Mentais Python/Atalhos vscode.md",
     "MySQL/O que é um Banco de Dados.md",
-    "PDFs e imgs/Contribuindo em um Projeto Open Source no GitHub.pdf",
-    "Roteiro de estudos/Roteiro.md",
-    "PDFs e imgs/git-guia-basico.pdf",
     "Python/Tratamento de erros e exceções.md",
     "Python/Modularização e Pacotes.md",
-    "MySQL",
     "Python/While - Else.md",
     "Git e GitHub/Mapa Mental de Como Utilizar Git e GitHub.md",
     "Mapas Mentais Python/Mapa mental listas.md",
-    "Mapas Mentais Python/Mapa Mental manipulação de arquivo .txt.md",
-    "Scrum/Scrum - Guia.md",
-    "Roteiro de estudos",
-    "PDFs e imgs/Scrum-Guide-Portuguese-BR.pdf",
-    "Scrum",
     "PDFs e imgs/Pasted image 20240820001633.png",
     "PDFs e imgs/Pasted image 20240820001556.png",
     "Icon.jpeg"
