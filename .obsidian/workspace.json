@@ -128,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/Conceitos de Programação.md"
+              }
             }
           }
         ]
@@ -148,10 +150,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "92294230c76832d2",
+  "active": "503ba964d621ca23",
   "lastOpenFiles": [
-    "Sem título.md",
+    "Java-Dio/Tipos e variáveis.md",
+    "Java-Dio/Terminal e Argumentos.md",
+    "Java-Dio/Palavras Reservadas.md",
+    "Java-Dio/Operadores.md",
+    "Java-Dio/Métodos.md",
+    "Java-Dio/Java Doc.md",
+    "Java-Dio/Introdução ao java.md",
+    "Java-Dio/Anatomia das Classes.md",
     "Java-Dio/Escopo.md",
+    "Java-Dio",
+    "Java/Conceitos de Programação.md",
+    "Java",
+    "Java/Java-Dio/Escopo.md",
     "Mapas Mentais Python/Mapa mental Tratamento de Erro e Exceção.md",
     "Estudos",
     "Mapas Mentais Python/Mapa mental operadores de lógicos.md",
@@ -171,23 +184,12 @@
     "Mapas Mentais Python/Mapa Mental manipulação de arquivo .txt.md",
     "Scrum/Scrum - Guia.md",
     "Mapas Mentais Python/Bibliotecas e seus módulos.md",
-    "Python/Dicionários.md",
-    "Python/Cores no terminal.md",
     "Roteiro de estudos",
-    "Python/Operadores lógicos.md",
-    "Mapas Mentais Python/Funções2.md",
-    "Mapas Mentais Python/Mapa mental dicionários.md",
-    "Mapas Mentais Python/Mapa mental estrutura sequencial.md",
-    "Mapas Mentais Python/Mapa mental estruturas condicionais(decisão).md",
-    "Mapas Mentais Python/Mapa mental estruturas de repetição.md",
-    "Mapas Mentais Python/Mapa mental fatiamento, Análise, Transformação e Divisão de strings..md",
     "PDFs e imgs/Scrum-Guide-Portuguese-BR.pdf",
     "Scrum",
     "PDFs e imgs/Pasted image 20240820001633.png",
     "PDFs e imgs/Pasted image 20240820001556.png",
     "PDFs e imgs",
-    "PDFs e imgs/Versionamento de Código com Git e GitHub (1).pdf",
-    "Icon.jpeg",
-    "Versionamento de Código com Git e GitHub (1) 1.pdf"
+    "Icon.jpeg"
   ]
 }
