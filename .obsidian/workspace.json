@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cc630995f159f3e0",
+        "id": "f0e8bc49bfefa4e9",
         "type": "tabs",
         "children": [
           {
-            "id": "92294230c76832d2",
+            "id": "f05029b7da8ee742",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Conceitos de Programação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00ad4154ae2cb19d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md"
+                "file": "AWS/Visão geral de nuvem/Seção 2 - Vantagens da computação em nuvem.md"
               }
             }
           }
@@ -159,13 +140,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "00ad4154ae2cb19d",
+  "active": "503ba964d621ca23",
   "lastOpenFiles": [
+    "AWS/Visão geral de nuvem/Seção 2 - Vantagens da computação em nuvem.md",
+    "AWS/Visão geral de nuvem/Seção 1 - Introdução a computação em nuvem.md",
+    "AWS/Visão geral de nuvem",
+    "Sem título.md",
+    "Pasted image 20240903164405.png",
+    "AWS",
+    "Java/Lógica_Algoritmos_Java/Conceitos de Programação.md",
+    "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
     "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
     "PDFs e imgs/introducao-linguagem-java 1.pdf",
-    "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
     "introducao-linguagem-java.pdf",
-    "Java/Lógica_Algoritmos_Java/Conceitos de Programação.md",
     "Java/Lógica_Algoritmos_Java",
     "Anotações_cursos_2",
     "Curso-Java-COMPLETO.pdf",
@@ -173,7 +160,6 @@
     "PDFs e imgs/02-conceitos-de-programacao.pdf",
     "Roteiro de estudos/Roteiro.md",
     "PDFs e imgs/Curso-Java-COMPLETO.pdf",
-    "Java",
     "Anotações_cursos_2/Java-Dio/Tipos e variáveis.md",
     "Anotações_cursos_2/Java-Dio/Terminal e Argumentos.md",
     "Anotações_cursos_2/Java-Dio/Palavras Reservadas.md",
@@ -183,7 +169,6 @@
     "Anotações_cursos_2/Java-Dio/Introdução ao java.md",
     "Anotações_cursos_2/Java-Dio/Anatomia das Classes.md",
     "Anotações_cursos_2/Java-Dio/Escopo.md",
-    "Anotações_cursos_2/Java-Dio",
     "Anotações_cursos_2/Java-Dio/Escopo.md",
     "Mapas Mentais Python/Mapa mental Tratamento de Erro e Exceção.md",
     "Mapas Mentais Python/Mapa mental operadores de lógicos.md",
@@ -194,8 +179,6 @@
     "Python/Tratamento de erros e exceções.md",
     "Python/Modularização e Pacotes.md",
     "Python/While - Else.md",
-    "Git e GitHub/Mapa Mental de Como Utilizar Git e GitHub.md",
-    "Mapas Mentais Python/Mapa mental listas.md",
     "PDFs e imgs/Pasted image 20240820001633.png",
     "PDFs e imgs/Pasted image 20240820001556.png",
     "Icon.jpeg"
