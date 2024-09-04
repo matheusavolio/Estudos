@@ -45,3 +45,4 @@ System.out.printf("%s tem %d anos e pesa %.2f", nome, idade, peso); // a variave
 \n = quebra de linha
 %.2f = delimitando número de casas decimais, e é substítuido pela váriavel
 ```
+
