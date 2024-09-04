@@ -4,3 +4,5 @@ Roteiro de estudos do curso Java COMPLETO com Nélio Alves
 
 
 ![[introducao-linguagem-java 1.pdf]]
+
+![[04-estrutura-sequencial (1).pdf]]
