@@ -11,36 +11,23 @@
             "id": "a9b19862430aa375",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "509dda8a824d760a",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "4c12ba85f8aacb10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b666453fe0f2f38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Variáveis e tipos básicos em Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Variáveis e tipos básicos em Java.md",
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Variáveis e tipos básicos em Java.md",
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Variáveis e tipos básicos em Java.md"
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md"
               }
             }
           },
@@ -178,20 +165,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b666453fe0f2f38",
+  "active": "a9b19862430aa375",
   "lastOpenFiles": [
-    "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Variáveis e tipos básicos em Java.md",
-    "Java/Lógica_Algoritmos_Java/Conceitos/Conceitos de Programação.md",
-    "Java/Lógica_Algoritmos_Java/Conceitos/Introdução a linguagem Java.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Expressões Aritméticas.md",
+    "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/As três operações básicas de programação.md",
+    "PDFs e imgs/04-estrutura-sequencial (1).pdf",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial",
+    "Java/Lógica_Algoritmos_Java/Conceitos/Introdução a linguagem Java.md",
+    "Java/Lógica_Algoritmos_Java/Conceitos/Conceitos de Programação.md",
+    "Java/Lógica_Algoritmos_Java/Conceitos",
+    "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
+    "Java/Lógica_Algoritmos_Java/Conceitos de Programação.md",
     "Python/Listas.md",
     "Python/Tuplas.md",
     "Untitled.loom",
     "Untitled 1.loom",
-    "Java/Lógica_Algoritmos_Java/Conceitos",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial",
-    "PDFs e imgs/04-estrutura-sequencial (1).pdf",
     "AWS/Visão geral de nuvem/Seção 2 - Vantagens da computação em nuvem.md",
     "AWS/Visão geral de nuvem/Seção 1 - Introdução a computação em nuvem.md",
     "AWS/Visão geral de nuvem",
@@ -213,10 +204,6 @@
     "Anotações_cursos_2/Java-Dio/Escopo.md",
     "Mapas Mentais Python/Mapa mental Tratamento de Erro e Exceção.md",
     "Mapas Mentais Python/Mapa mental operadores de lógicos.md",
-    "Python/while, break e continue.md",
-    "Python/Concatenação.md",
-    "Mapas Mentais Python/Atalhos vscode.md",
-    "MySQL/O que é um Banco de Dados.md",
     "PDFs e imgs/Pasted image 20240820001633.png",
     "PDFs e imgs/Pasted image 20240820001556.png",
     "Icon.jpeg"
