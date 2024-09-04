@@ -1,3 +1,4 @@
+# Aula21 - Expressões Aritméticas
 Expressões aritméticas são aquelas expressões que quando são calculadas o resultado vai dar um valor numérico.
 
 #### Operadores Aritméticos
