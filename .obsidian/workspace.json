@@ -8,19 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f588c0d8c6e9e0d",
+            "id": "a9b19862430aa375",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "8eaf14568fe22a6c",
+            "id": "4c12ba85f8aacb10",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Compilação",
+                "query": "tag:#quantidade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
+                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
+                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,15 +134,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md"
+                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md"
               }
             }
+          },
+          {
+            "id": "917be2919c6873d8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 276.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -155,29 +161,36 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "notion-like-tables:Create loom": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f588c0d8c6e9e0d",
+  "active": "4c12ba85f8aacb10",
   "lastOpenFiles": [
-    "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Variáveis e tipos básicos em Java.md",
     "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
     "Java/Lógica_Algoritmos_Java/Conceitos de Programação.md",
+    "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+    "Java/Lógica_Algoritmos_Java/Conceitos/Conceitos de Programação.md",
+    "Java/Lógica_Algoritmos_Java/Conceitos/Introdução a linguagem Java.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Expressões Aritméticas.md",
+    "Python/Listas.md",
+    "Python/Tuplas.md",
+    "Untitled.loom",
+    "Untitled 1.loom",
+    "Java/Lógica_Algoritmos_Java/Conceitos",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial",
+    "PDFs e imgs/04-estrutura-sequencial (1).pdf",
     "AWS/Visão geral de nuvem/Seção 2 - Vantagens da computação em nuvem.md",
     "AWS/Visão geral de nuvem/Seção 1 - Introdução a computação em nuvem.md",
     "AWS/Visão geral de nuvem",
     "AWS",
-    "Sem título.md",
     "Pasted image 20240903164405.png",
     "PDFs e imgs/introducao-linguagem-java 1.pdf",
     "introducao-linguagem-java.pdf",
     "Java/Lógica_Algoritmos_Java",
-    "Anotações_cursos_2",
-    "Curso-Java-COMPLETO.pdf",
-    "02-conceitos-de-programacao 1.pdf",
-    "PDFs e imgs/02-conceitos-de-programacao.pdf",
     "Roteiro de estudos/Roteiro.md",
-    "PDFs e imgs/Curso-Java-COMPLETO.pdf",
     "Anotações_cursos_2/Java-Dio/Tipos e variáveis.md",
     "Anotações_cursos_2/Java-Dio/Terminal e Argumentos.md",
     "Anotações_cursos_2/Java-Dio/Palavras Reservadas.md",
@@ -192,10 +205,6 @@
     "Mapas Mentais Python/Mapa mental operadores de lógicos.md",
     "Python/while, break e continue.md",
     "Python/Concatenação.md",
-    "Mapas Mentais Python/Atalhos vscode.md",
-    "MySQL/O que é um Banco de Dados.md",
-    "Python/Tratamento de erros e exceções.md",
-    "Python/Modularização e Pacotes.md",
     "PDFs e imgs/Pasted image 20240820001633.png",
     "PDFs e imgs/Pasted image 20240820001556.png",
     "Icon.jpeg"
