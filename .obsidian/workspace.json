@@ -11,8 +11,24 @@
             "id": "6f588c0d8c6e9e0d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8eaf14568fe22a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md"
+              }
             }
           }
         ]
@@ -140,15 +160,15 @@
   },
   "active": "6f588c0d8c6e9e0d",
   "lastOpenFiles": [
+    "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+    "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
+    "Java/Lógica_Algoritmos_Java/Conceitos de Programação.md",
     "AWS/Visão geral de nuvem/Seção 2 - Vantagens da computação em nuvem.md",
     "AWS/Visão geral de nuvem/Seção 1 - Introdução a computação em nuvem.md",
     "AWS/Visão geral de nuvem",
     "AWS",
     "Sem título.md",
     "Pasted image 20240903164405.png",
-    "Java/Lógica_Algoritmos_Java/Conceitos de Programação.md",
-    "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
-    "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
     "PDFs e imgs/introducao-linguagem-java 1.pdf",
     "introducao-linguagem-java.pdf",
     "Java/Lógica_Algoritmos_Java",
