@@ -634,42 +634,44 @@ Temos 1 pessoas menores de idade
 
 # Exercícios:
 
-`pessoas = []
-`dados = []
-`maior = menor = 0
-`continuar = "s"
-`while continuar == "s":
-``    dados.append(str(input("Nome: ")))
-``    dados.append(float(input("Peso: ")))
-``    if len(pessoas) == 0:
-`        maior = menor = dados[1]
-``    else:
-``        if dados [1] > maior:
-``            maior = dados[1]
-``        if dados[1] < menor:
-``            menor = dados[1]
-``    pessoas.append(dados[:])
-``    dados.clear()
- ``    continuar = str(input("Quer continuar? [S/N] ")).strip().lower()
-`print("-=-" *20)
-`print(f"Foram feitos {len(pessoas)} cadastros ")
-`print(f"O maior peso foi de {maior}kg. Peso de: ", end=" ")
-`for p in pessoas:
-``    if p[1] == maior:
-``        print(f"[{p[0]}]", end=" ")
-`print()
-`print(f"\nO menor peso foi de {menor}Kg. Peso de: ", end="")
-`for p in pessoas:
-``    if p[1] == menor:
-``        print(f"[{p[0]}]", end=" ")
+```python
+pessoas = []
+dados = []
+maior = menor = 0
+continuar = "s"
+while continuar == "s":
+    dados.append(str(input("Nome: ")))
+    dados.append(float(input("Peso: ")))
+    if len(pessoas) == 0:
+        maior = menor = dados[1]
+    else:
+        if dados [1] > maior:
+            maior = dados[1]
+        if dados[1] < menor:
+            menor = dados[1]
+    pessoas.append(dados[:])
+    dados.clear()
+     continuar = str(input("Quer continuar? [S/N] ")).strip().lower()
+print("-=-" *20)
+print(f"Foram feitos {len(pessoas)} cadastros ")
+print(f"O maior peso foi de {maior}kg. Peso de: ", end=" ")
+for p in pessoas:
+    if p[1] == maior:
+        print(f"[{p[0]}]", end=" ")
+print()
+print(f"\nO menor peso foi de {menor}Kg. Peso de: ", end="")
+for p in pessoas:
+    if p[1] == menor:
+        print(f"[{p[0]}]", end=" ")
 
 
 
 
-`pessoas = [] 
-`dados = [] 
-`maior = menor = 0
-`continuar = "s"`
+pessoas = [] 
+dados = [] 
+maior = menor = 0
+continuar = "s"
+```
 
 1. `pessoas = []`: Inicializa uma lista vazia chamada `pessoas`, que armazenará os dados das pessoas cadastradas.
 2. `dados = []`: Inicializa uma lista vazia chamada `dados`, que armazenará temporariamente o nome e o peso de cada pessoa.
