@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Variáveis e tipos básicos em Java.md",
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Variáveis e tipos básicos em Java.md",
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Variáveis e tipos básicos em Java.md",
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Variáveis e tipos básicos em Java.md"
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md"
               }
             }
           },
@@ -161,17 +161,18 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "notion-like-tables:Create loom": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "a9b19862430aa375",
   "lastOpenFiles": [
+    "Java/Debug dos exercicios/Exercício de fixação 1.md",
+    "Java/Debug dos exercicios",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/As três operações básicas de programação.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Variáveis e tipos básicos em Java.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Expressões Aritméticas.md",
     "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/As três operações básicas de programação.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Expressões Aritméticas.md",
     "PDFs e imgs/04-estrutura-sequencial (1).pdf",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial",
     "Java/Lógica_Algoritmos_Java/Conceitos/Introdução a linguagem Java.md",
@@ -190,7 +191,6 @@
     "Pasted image 20240903164405.png",
     "PDFs e imgs/introducao-linguagem-java 1.pdf",
     "introducao-linguagem-java.pdf",
-    "Java/Lógica_Algoritmos_Java",
     "Roteiro de estudos/Roteiro.md",
     "Anotações_cursos_2/Java-Dio/Tipos e variáveis.md",
     "Anotações_cursos_2/Java-Dio/Terminal e Argumentos.md",
@@ -202,8 +202,6 @@
     "Anotações_cursos_2/Java-Dio/Anatomia das Classes.md",
     "Anotações_cursos_2/Java-Dio/Escopo.md",
     "Anotações_cursos_2/Java-Dio/Escopo.md",
-    "Mapas Mentais Python/Mapa mental Tratamento de Erro e Exceção.md",
-    "Mapas Mentais Python/Mapa mental operadores de lógicos.md",
     "PDFs e imgs/Pasted image 20240820001633.png",
     "PDFs e imgs/Pasted image 20240820001556.png",
     "Icon.jpeg"
