@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9b19862430aa375",
+            "id": "f1182b197d9254fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28d10c9fa7f356d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Debug dos exercicios/Exercício de fixação 1.md",
+                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,9 +26,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "3dd98ce957da574e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Processamento de dados.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Debug dos exercicios/Exercício de fixação 1.md",
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Processamento de dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Debug dos exercicios/Exercício de fixação 1.md",
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Processamento de dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Debug dos exercicios/Exercício de fixação 1.md"
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Processamento de dados.md"
               }
             }
           },
@@ -177,19 +177,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "503ba964d621ca23",
+  "active": "3dd98ce957da574e",
   "lastOpenFiles": [
-    "Java/Debug dos exercicios/Exercício de fixação 1.md",
-    "Java/Debug dos exercicios",
+    "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Processamento de dados.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Variáveis e tipos básicos em Java.md",
-    "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/As três operações básicas de programação.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Expressões Aritméticas.md",
-    "PDFs e imgs/04-estrutura-sequencial (1).pdf",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/As três operações básicas de programação.md",
     "Java/Lógica_Algoritmos_Java/Conceitos/Introdução a linguagem Java.md",
     "Java/Lógica_Algoritmos_Java/Conceitos/Conceitos de Programação.md",
+    "Java/Debug dos exercicios/Exercício de fixação 1.md",
+    "Java/Debug dos exercicios",
+    "PDFs e imgs/04-estrutura-sequencial (1).pdf",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial",
     "Java/Lógica_Algoritmos_Java/Conceitos",
     "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
     "Java/Lógica_Algoritmos_Java/Conceitos de Programação.md",
