@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9b19862430aa375",
+            "id": "f1182b197d9254fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Debug dos exercicios/Exercício de fixação 1.md",
+                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Debug dos exercicios/Exercício de fixação 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Debug dos exercicios/Exercício de fixação 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Debug dos exercicios/Exercício de fixação 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,19 +161,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9b19862430aa375",
+  "active": "509dda8a824d760a",
   "lastOpenFiles": [
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
-    "Java/Debug dos exercicios/Exercício de fixação 1.md",
-    "Java/Debug dos exercicios",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Variáveis e tipos básicos em Java.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Processamento de dados.md",
     "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/As três operações básicas de programação.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Variáveis e tipos básicos em Java.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Expressões Aritméticas.md",
-    "PDFs e imgs/04-estrutura-sequencial (1).pdf",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/As três operações básicas de programação.md",
     "Java/Lógica_Algoritmos_Java/Conceitos/Introdução a linguagem Java.md",
     "Java/Lógica_Algoritmos_Java/Conceitos/Conceitos de Programação.md",
+    "Java/Debug dos exercicios/Exercício de fixação 1.md",
+    "Java/Debug dos exercicios",
+    "PDFs e imgs/04-estrutura-sequencial (1).pdf",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial",
     "Java/Lógica_Algoritmos_Java/Conceitos",
     "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
     "Java/Lógica_Algoritmos_Java/Conceitos de Programação.md",
