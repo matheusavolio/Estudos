@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "f19b982c8731d973",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec919bf8221b4df0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97ac5f8210522b1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e76915d2ec3a421b",
+    "type": "split",
+    "children": [
+      {
+        "id": "805d6763c8bd291c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0db3770cf0dc53d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e58086a1e6986ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86049c9b498b683d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8996363c935f1cda",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bb5975a667da1f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6b92f02b1e7ae5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d95d062f04f41c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7206f67d8c02873c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a83c9250d91b4022",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Abrir importador Markdown": false
+    }
+  },
+  "active": "0db3770cf0dc53d4",
+  "lastOpenFiles": [
+    "Sem título.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md",
+    "Novo Documento de Texto.txt",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Processamento de dados.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Entrada de dados em Java.md",
+    "MySQL/O que é um Banco de Dados.md"
+  ]
+}
