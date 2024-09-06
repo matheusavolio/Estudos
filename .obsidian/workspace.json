@@ -144,11 +144,13 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "97ac5f8210522b1a",
+  "active": "0db3770cf0dc53d4",
   "lastOpenFiles": [
+    "Novo Documento de Texto.txt",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Processamento de dados.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Entrada de dados em Java.md",
