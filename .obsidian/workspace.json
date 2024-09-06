@@ -11,8 +11,12 @@
             "id": "97ac5f8210522b1a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md"
+              }
             }
           }
         ]
@@ -130,15 +138,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "97ac5f8210522b1a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Processamento de dados.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Entrada de dados em Java.md",
+    "MySQL/O que é um Banco de Dados.md"
+  ]
 }
