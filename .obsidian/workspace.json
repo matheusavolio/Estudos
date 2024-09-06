@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md",
+                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,14 +169,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1182b197d9254fb",
+  "active": "c2dc815b283975cc",
   "lastOpenFiles": [
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Exercícios estrutura sequencial.md",
+    "PDFs e imgs/02-exercicios1-estrutura-sequencial (1).pdf",
     "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Processamento de dados.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Entrada de dados em Java.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Expressões Aritméticas.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Processamento de dados.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Variáveis e tipos básicos em Java.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/As três operações básicas de programação.md",
     "Java/Lógica_Algoritmos_Java/Conceitos/Introdução ao java - DIO.md",
     "Java/Lógica_Algoritmos_Java/Conceitos/Introdução a linguagem Java - Udemy.md",
+    "Java/Lógica_Algoritmos_Java/Conceitos/Conceitos de Programação.md",
     "Java/Debug dos exercicios/Calculo de média V1.md",
     "Java/Lógica_Algoritmos_Java/Conceitos/Introdução a linguagem Java.md",
     "Anotações_cursos_2/Java-Dio/Introdução ao java.md",
@@ -189,24 +197,16 @@
     "Anotações_cursos_2/Java-Dio/Anatomia das Classes.md",
     "AWS/Visão geral de nuvem/Seção 1 - Introdução a computação em nuvem.md",
     "AWS/Visão geral de nuvem/Seção 2 - Vantagens da computação em nuvem.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Expressões Aritméticas.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Variáveis e tipos básicos em Java.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
-    "Java/Debug dos exercicios/Exercício de fixação 1.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/As três operações básicas de programação.md",
-    "Java/Lógica_Algoritmos_Java/Conceitos/Conceitos de Programação.md",
     "Java/Debug dos exercicios",
     "PDFs e imgs/04-estrutura-sequencial (1).pdf",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial",
     "Java/Lógica_Algoritmos_Java/Conceitos",
-    "Java/Lógica_Algoritmos_Java/Introdução a linguagem Java.md",
     "Untitled.loom",
     "Untitled 1.loom",
     "AWS/Visão geral de nuvem",
     "AWS",
     "Pasted image 20240903164405.png",
     "PDFs e imgs/introducao-linguagem-java 1.pdf",
-    "introducao-linguagem-java.pdf",
     "PDFs e imgs/Pasted image 20240820001633.png",
     "PDFs e imgs/Pasted image 20240820001556.png",
     "Icon.jpeg"
