@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md"
+                "file": "Sem título.md"
               }
             }
           }
@@ -150,6 +148,8 @@
   },
   "active": "0db3770cf0dc53d4",
   "lastOpenFiles": [
+    "Sem título.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md",
     "Novo Documento de Texto.txt",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Processamento de dados.md",
