@@ -1,6 +1,5 @@
 ```java
 <CÓDIGO>
-
 package testes;
 import java.util.Scanner;
 import java.util.Locale;
@@ -104,8 +103,7 @@ java
 
 ### Exemplo de saída:
 
-
-`Insira a primeira nota: 8.5 
+Insira a primeira nota: 8.5 
 Insira a segunda nota: 7.3 
 A média é 7.9`
 ```
