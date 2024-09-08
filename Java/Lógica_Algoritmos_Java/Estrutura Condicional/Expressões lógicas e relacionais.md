@@ -137,7 +137,7 @@ int x = 5;
 ---
 ---
 
-#ResumoExpressões
+#ResumoExpressõesLogicasRelacionais
 - Expressões relacionais
 	- >
 	- <

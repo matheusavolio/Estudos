@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Condicional/OpeAtribuiçãoCumulativa, Switch-Case, ExpTernaria, EscopoInicialização.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Condicional/OpeAtribuiçãoCumulativa, Switch-Case, ExpTernaria, EscopoInicialização.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Condicional/OpeAtribuiçãoCumulativa, Switch-Case, ExpTernaria, EscopoInicialização.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md"
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura Condicional/OpeAtribuiçãoCumulativa, Switch-Case, ExpTernaria, EscopoInicialização.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "d9c90df4355d98d8",
   "lastOpenFiles": [
-    "Java/Lógica_Algoritmos_Java/Estrutura Condicional/OpeAtribuiçãoCumulativa, Switch-Case, ExpTernaria, EscopoInicialização.md",
     "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Condicional/OpeAtribuiçãoCumulativa, Switch-Case, ExpTernaria, EscopoInicialização.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Estrutura condicional if-else.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Exercicios estrutura condicional.md",
