@@ -11,15 +11,24 @@
             "id": "5c7db64200d3fbd4",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d9c90df4355d98d8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Estrutura condicional if-else.md",
-                "mode": "preview",
+                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Estrutura condicional if-else.md",
+                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Estrutura condicional if-else.md",
+                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Estrutura condicional if-else.md"
+                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md"
               }
             }
           },
@@ -157,14 +166,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5c7db64200d3fbd4",
+  "active": "d9c90df4355d98d8",
   "lastOpenFiles": [
-    "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Exercicios estrutura condicional.md",
-    "PDFs e imgs/02-exercicios2-estrutura-condicional.pdf",
-    "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Estrutura condicional if-else.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Expressões lógicas e relacionais.md",
-    "Mapas Mentais Python/Mapa mental dicionários.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Condicional/OpeAtribuiçãoCumulativa, Switch-Case, ExpTernaria, EscopoInicialização.md",
     "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Estrutura condicional if-else.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Exercicios estrutura condicional.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Expressões lógicas e relacionais.md",
+    "PDFs e imgs/02-exercicios2-estrutura-condicional.pdf",
+    "Mapas Mentais Python/Mapa mental dicionários.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Entrada de dados em Java.md",
     "Java/Debug dos exercicios/Calculo de média V1.md",
     "Scrum/Scrum - Guia.md",
@@ -177,7 +188,6 @@
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Exercícios estrutura sequencial.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/ExpArit, Variáveis, Tipos primitivos, Input, Output e Casting.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Processamento de dados.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Expressões Aritméticas.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/As três operações básicas de programação.md",
     "Anotações_cursos_2/Java-Dio/Operadores.md",
