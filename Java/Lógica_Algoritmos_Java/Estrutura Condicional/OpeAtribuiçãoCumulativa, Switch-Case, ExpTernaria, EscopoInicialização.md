@@ -163,7 +163,39 @@ int num = sc.nextInt();
 -  Escopo de uma variável: é a região do programa onde a variável é válida, ou seja, onde ela pode ser referenciada. 
 - Uma variável não pode ser usada se não for iniciada.
 
-> [!Atenção]
-> escopo e inicialização em nível de estrutura de controle.
-
+| Escopo local                                                                                                       | Escopo de instância                                                                                                                                | Escopo de classe                                                                                                                                                                                                                  | Escopo de bloco                                                                                                            |
+|:------------------------------------------------------------------------------------------------------------------ |:-------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Variáveis declaradas dentro de um método, construtor ou bloco. Elas só são acessíveis dentro desse método ou bloco | Variáveis que pertencem a uma instância de uma classe. Elas são acessíveis em todos os métodos da classe, desde que a instância esteja disponível. | Variáveis declaradas com a palavra-chave `static`, que pertencem à classe e não a uma instância específica. Elas podem ser acessadas por todos os métodos da classe e também fora da classe, desde que a classe seja referenciada | Variáveis declaradas dentro de um bloco de código, como `if`, `for`, ou `while`, são acessíveis apenas dentro desse bloco. |
+#### Exemplo #EscopoLocal:
+```java
+public void exemplo() { 
+	int x = 10; // x tem escopo local e só pode ser usada aqui 
+}
+```
+#### Exemplo #EscopoInstância:
+```java
+class Carro { 
+	int velocidade; // variável de instância 
+	public void acelerar() { 
+		velocidade += 10; 
+	} 
+}
+```
+#### Exemplo #EscopoClasse:
+```java
+class Carro { 
+	static int numeroDeCarros; // variável de classe 
+	
+	public Carro() { 
+	numeroDeCarros++; 
+	} 
+}
+```
+#### Exemplo #EscopoBloco:
+```java
+double price = sc.nextDouble(); 
+if (price > 100.0) { 
+	double discount = price * 0.1; // discount só pode ser acessada dentro desse bloco
+} 
+```
 
