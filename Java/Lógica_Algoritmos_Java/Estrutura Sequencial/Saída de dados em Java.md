@@ -33,6 +33,7 @@ System.out.println("RESULTADO = " +  x + " METROS");
 System.out.printf("RESULTADO = %.2f metros\n", x); // o valor de x vai entrar no lugar de " %.2f" e irá ser impresso no output o valor de x formatado para duas casas decimais
 ```
 
+#ImpressãoFormatada
 ```java
 IMPRESSÃO FORMATADA
 String nome = "Matheus";
