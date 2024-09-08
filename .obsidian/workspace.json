@@ -16,31 +16,31 @@
             }
           },
           {
-            "id": "6c30cecb4f2f9db7",
+            "id": "d9c90df4355d98d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Condicional/OpeAtribuiçãoCumulativa, Switch-Case, ExpTernaria, EscopoInicialização.md",
+                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d9c90df4355d98d8",
+            "id": "483de5f5ac8d5db9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Condicional/OpeAtribuiçãoCumulativa, Switch-Case, ExpTernaria, EscopoInicialização.md",
+                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Condicional/OpeAtribuiçãoCumulativa, Switch-Case, ExpTernaria, EscopoInicialização.md",
+                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Condicional/OpeAtribuiçãoCumulativa, Switch-Case, ExpTernaria, EscopoInicialização.md",
+                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Condicional/OpeAtribuiçãoCumulativa, Switch-Case, ExpTernaria, EscopoInicialização.md"
+                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md"
               }
             }
           },
@@ -180,8 +180,12 @@
   },
   "active": "d9c90df4355d98d8",
   "lastOpenFiles": [
-    "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+    "06-estruturas-repetitivas.pdf",
+    "Java/Debug dos exercicios/Exercício de fixação 1.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Repetiticas",
+    "Java/Debug dos exercicios/Calculo de média V1.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Condicional/OpeAtribuiçãoCumulativa, Switch-Case, ExpTernaria, EscopoInicialização.md",
+    "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Estrutura condicional if-else.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Exercicios estrutura condicional.md",
@@ -189,7 +193,6 @@
     "PDFs e imgs/02-exercicios2-estrutura-condicional.pdf",
     "Mapas Mentais Python/Mapa mental dicionários.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Entrada de dados em Java.md",
-    "Java/Debug dos exercicios/Calculo de média V1.md",
     "Scrum/Scrum - Guia.md",
     "PDFs e imgs/Diagram 1.svg",
     "PDFs e imgs/Diagram.svg",
@@ -211,8 +214,6 @@
     "Python/_Index_of_Python.md",
     "PDFs e imgs/_Index_of_PDFs e imgs.md",
     "MySQL/_Index_of_MySQL.md",
-    "Mapas Mentais Python/_Index_of_Mapas Mentais Python.md",
-    "Java/_Index_of_Java.md",
     "Sem título.canvas",
     "PDFs e imgs/Sem título.canvas",
     "PDFs e imgs/05-estrutura-condicional.pdf",

@@ -14,3 +14,6 @@ Roteiro de estudos do curso Java COMPLETO com Nélio Alves
 
 # Estrutura Condicional
 ![[05-estrutura-condicional.pdf]]
+
+# Estruturas Repetiticas
+![[06-estruturas-repetitivas.pdf]]
