@@ -17,3 +17,6 @@ Roteiro de estudos do curso Java COMPLETO com Nélio Alves
 
 # Estruturas Repetiticas
 ![[06-estruturas-repetitivas.pdf]]
+
+# Outros tópicos básicos
+![[07-outros-topicos-basicos.pdf]]
