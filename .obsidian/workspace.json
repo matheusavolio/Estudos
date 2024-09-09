@@ -8,20 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c7db64200d3fbd4",
+            "id": "f6f0b98202f2b21c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/TesteDeMesaFor.png"
+              }
             }
           },
           {
-            "id": "483de5f5ac8d5db9",
+            "id": "d58111614c609b27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura de repetição/Estruturas de repetição.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura de repetição/Estruturas de repetição.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura de repetição/Estruturas de repetição.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md"
+                "file": "Java/Lógica_Algoritmos_Java/Estrutura de repetição/Estruturas de repetição.md"
               }
             }
           },
@@ -178,15 +180,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "483de5f5ac8d5db9",
+  "active": "d58111614c609b27",
   "lastOpenFiles": [
-    "PDFs e imgs/06-estruturas-repetitivas.pdf",
+    "Excalidraw/TesteDeMesaFor.png",
     "Java/Lógica_Algoritmos_Java/Estrutura de repetição/Estruturas de repetição.md",
+    "Excalidraw/TesteDeMesaor.md",
+    "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+    "AWS/Visão geral de nuvem/Seção 4 - Mudança para a Nuvem AWS - AWS Cloud Adoption Framework (AWS CAF).md",
+    "AWS/Visão geral de nuvem/Seção 3 - Introdução a Amazon Web Services.md",
+    "AWS/Visão geral de nuvem/Seção 2 - Vantagens da computação em nuvem.md",
+    "AWS/Visão geral de nuvem/Seção 1 - Introdução a computação em nuvem.md",
+    "Pasted image 20240909103829.png",
+    "Pasted image 20240909103806.png",
+    "PDFs e imgs/06-estruturas-repetitivas.pdf",
     "Java/Lógica_Algoritmos_Java/Estrutura de repetição",
-    "Excalidraw/testeDeMesa02.png",
+    "Excalidraw/TesteMesaWhile.png",
     "Excalidraw",
     "06-estruturas-repetitivas.pdf",
-    "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
     "Excalidraw/testeDeMesa02.md",
     "Excalidraw/Drawing 2024-09-08 11.51.29.excalidraw.md",
     "Excalidraw/Drawing 2024-09-08 11.51.32.excalidraw.md",
@@ -217,11 +227,6 @@
     "PDFs e imgs/Diagram.svg.xml",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Exercícios estrutura sequencial.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/ExpArit, Variáveis, Tipos primitivos, Input, Output e Casting.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Processamento de dados.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Expressões Aritméticas.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/As três operações básicas de programação.md",
-    "Anotações_cursos_2/Java-Dio/Operadores.md",
     "Sem título.canvas",
     "PDFs e imgs/Sem título.canvas"
   ]

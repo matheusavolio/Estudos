@@ -34,8 +34,80 @@ No exemplo acima, o bloco while irá se repetir até que a condição se torne f
 
 # Exercícios teste de mesa
 
-#### Exercício 1:
-
 #### Exercício 2:
 
-![[testeDeMesa02.png]]
+![[TesteMesaWhile.png]]
+
+---
+---
+
+# Aula50 - Estrutura de repetição (for)
+
+
+> [!Conceito] 
+> É uma estrutura de controle que repete um bloco de comandos `para` um certo `intervalo` de valores
+
+> [!Quando usar] 
+> Quando se sabe previamente a quantidade de repetições, ou o intervalo de valores
+
+
+#### Sintaxe básica:
+```java
+   Executa
+   somente na
+   primeira
+     vez    true - continua
+	     	false - sai      Executa toda vez depois de voltar
+for (início; condição ; incremento){
+comando 1
+comando 2
+}
+```
+
+#### Exemplo: 
+
+Fazer um programa que lê um valor inteiro N e depois N números inteiros. Ao final, mostra a soma dos N números lidos
+```java
+Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int soma = 0;
+
+// em quanto o i for menor do que  n, irá continuar executando os comandos do bloco
+// a cada novo loop, o i recebe +1, o loop irá parar de ser executado quando o i == n
+        for (int i=0; i < n; i++){
+            int x = sc.nextInt();
+            soma += x;
+
+        }
+        System.out.println(soma);
+        sc.close();
+```
+_Perceba que a estrutura "para" é ótima para se fazer uma repetição baseada em uma CONTAGEM:_
+```java
+for (int i=0; i<5; i++) { 
+	System.out.println("Valor de i: " + i); 
+	}
+
+OUTPUT:
+Valor de i: 0 
+Valor de i: 1 
+Valor de i: 2 
+Valor de i: 3 
+Valor de i: 4
+```
+Contagem regressiva:
+```java
+for (int i=4; i>=0; i--) { 
+	System.out.println("Valor de i: " + i); 
+	}
+OUTPUT
+Valor de i: 4 
+Valor de i: 3 
+Valor de i: 2 
+Valor de i: 1 
+Valor de i: 0
+```
+
+# Teste de mesa for
+
+![[TesteDeMesaFor.png]]
