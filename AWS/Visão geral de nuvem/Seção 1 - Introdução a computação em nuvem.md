@@ -82,7 +82,7 @@ Há muitas semelhanças entre a AWS e o espaço tradicional de TI local:
 
 Com os serviços e recursos da AWS, você pode fazer quase tudo o que deseja com um datacenter tradicional
 
-#### #ResumoSeção1
+#### #ResumoSeção1Mod1
 Algumas das principais lições desta seção do módulo são:
 
 - `O termo “computação em nuvem” se refere à entrega de recursos de TI sob demanda por meio da Internet, com pagamento conforme o uso.

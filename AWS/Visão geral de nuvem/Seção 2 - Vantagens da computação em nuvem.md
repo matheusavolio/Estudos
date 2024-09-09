@@ -19,7 +19,7 @@ Por outro lado, uma despesa variável é aquela que pode ser alterada ou evitada
 #### Alcance global em minutos
 - Vantagem 6 – `Tenha alcance global em minutos: implante aplicativos com facilidade em várias regiões da AWS no mundo com apenas alguns cliques. Como resultado, você pode oferecer latência menor e experiência melhor aos clientes com simplicidade e custo mínimo.
 
-#### #ResumoSeção2
+#### #ResumoSeção2Mod1
 
 As principais lições desta seção do módulo incluem as seis vantagens da computação em nuvem:
 

@@ -47,7 +47,7 @@ As partes interessadas da perspectiva de operações (por exemplo, gerentes de o
 ---
 ---
 
-#ResumoSeção4
+#ResumoSeção4Mod1
 
 •A adoção da nuvem não é instantânea para a maioria das organizações, ela exige uma estratégia e alinhamento consciente em toda a organização.
 

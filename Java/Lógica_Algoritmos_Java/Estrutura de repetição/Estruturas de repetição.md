@@ -1,4 +1,4 @@
-# Aula45 - Estrutura de repetição enquanto (while)
+# Aula45 - Estrutura de repetição enquanto                 ( #while)
 
 #### O que é
  while é uma estrutura de controle que se repete enquanto um bloco de comandos `enquanto`  uma condição for verdadeira
@@ -41,7 +41,7 @@ No exemplo acima, o bloco while irá se repetir até que a condição se torne f
 ---
 ---
 
-# Aula50 - Estrutura de repetição (for)
+# Aula50 - Estrutura de repetição ( #for)
 
 
 > [!Conceito] 
@@ -111,3 +111,33 @@ Valor de i: 0
 # Teste de mesa for
 
 ![[TesteDeMesaFor.png]]
+
+---
+---
+# Aula55 - faça-enquanto ( #doWhile)
+É uma estrutura de repetição menos utilizada, mas se encaixa melhor ao problema
+O bloco de comandos executa pelo menos uma vez, pois a condição é verificada no final.
+
+#### Sintaxe básica:
+```java
+do{
+	comando 1
+	comando 2
+} while (condição);
+```
+
+#### Exemplo:
+Fazer um programa para ler uma temperatura em Celsius e mostrar o equivalente em Fahrenheit. Perguntar se o usuário deseja repetir (s/n). Caso o usuário digite "s", repetir o programa. 
+```java
+char resp;
+      do{
+		System.out.print("Digie a temperatura em celcius: ");
+         double c = sc.nextDouble();
+         double f = 9.0 * c / 5.0 + 32.0;
+         System.out.printf("Equivalente em Fahrenheit: %.1f\n", f);
+         System.out.print("Quer continuar? [S/N]");
+         resp = sc.next().charAt(0);
+      } while (resp != 'n');
+      sc.close();
+```
+O programa acima, vai ficar repetindo até o usuário digitar "N", enquanto ele não digitar, vai continuar pedindo para ele inserir uma temperatura em graus, imprimindo essa temperatura em fahrenheit e pergunta se deseja continuar novamente, até ser digitado "N".
