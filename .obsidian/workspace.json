@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+                "file": "AWS/Segurança nuvem AWS/Seção 1 - Modelo de responsabilidade compartilhada da AWS.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#while",
+                "query": "Amazon EC2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+                "file": "AWS/Segurança nuvem AWS/Seção 1 - Modelo de responsabilidade compartilhada da AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+                "file": "AWS/Segurança nuvem AWS/Seção 1 - Modelo de responsabilidade compartilhada da AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Materiais de apoio.md"
+                "file": "AWS/Segurança nuvem AWS/Seção 1 - Modelo de responsabilidade compartilhada da AWS.md"
               }
             }
           },
@@ -179,29 +179,31 @@
   },
   "active": "3c3c777474ac41f4",
   "lastOpenFiles": [
-    "PDFs e imgs/Pasted image 20240909172415.png",
-    "PDFs e imgs/Pasted image 20240909172345.png",
-    "PDFs e imgs/Pasted image 20240909172225.png",
-    "PDFs e imgs/Pasted image 20240909172138.png",
-    "PDFs e imgs/Pasted image 20240909172049.png",
-    "PDFs e imgs/Pasted image 20240909172016.png",
-    "PDFs e imgs/Pasted image 20240909171937.png",
-    "PDFs e imgs/Pasted image 20240909171908.png",
-    "PDFs e imgs/Pasted image 20240909171900.png",
-    "PDFs e imgs/Pasted image 20240909171755.png",
-    "PDFs e imgs/Pasted image 20240909171658.png",
+    "AWS/Segurança nuvem AWS/Seção 2 - AWS IAM.md",
+    "AWS/Visão geral da infraestrutura global AWS/Seção 2 - Visão geral dos serviços e das categorias de serviços da AWS.md",
+    "AWS/Visão geral da infraestrutura global AWS/Seção 1 - Infraestrutura global AWS.md",
+    "PDFs e imgs/Pasted image 20240910154130.png",
+    "PDFs e imgs/Pasted image 20240910154038.png",
+    "PDFs e imgs/Pasted image 20240910154009.png",
+    "PDFs e imgs/Pasted image 20240910153929.png",
+    "PDFs e imgs/Pasted image 20240910153844.png",
+    "PDFs e imgs/Pasted image 20240910153635.png",
+    "Pasted image 20240910153617.png",
+    "Pasted image 20240910153516.png",
+    "AWS/Segurança nuvem AWS/Seção 1 - Modelo de responsabilidade compartilhada da AWS.md",
+    "Pasted image 20240910152827.png",
+    "PDFs e imgs/Pasted image 20240910152346.png",
+    "AWS/Segurança nuvem AWS",
+    "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
     "PDFs e imgs/07-outros-topicos-basicos.pdf",
     "AWS/Visão geral de nuvem/Seção 4 - Mudança para a Nuvem AWS - AWS Cloud Adoption Framework (AWS CAF).md",
     "AWS/Visão geral de nuvem/Seção 3 - Introdução a Amazon Web Services.md",
-    "AWS/Visão geral da infraestrutura global AWS/Seção 2 - Visão geral dos serviços e das categorias de serviços da AWS.md",
-    "AWS/Visão geral da infraestrutura global AWS/Seção 1 - Infraestrutura global AWS.md",
     "AWS/Visão geral da infraestrutura global AWS",
     "Java/Debug dos exercicios/Exercício de fixação 1.md",
     "Java/Debug dos exercicios/Calculo de média V1.md",
     "Java/Debug dos exercicios",
     "AWS/Visão geral de nuvem/Seção 2 - Vantagens da computação em nuvem.md",
     "AWS/Visão geral de nuvem/Seção 1 - Introdução a computação em nuvem.md",
-    "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
     "Java/Lógica_Algoritmos_Java/Outros tópicos basicos",
     "Java/Lógica_Algoritmos_Java/Estrutura de repetição/Estruturas de repetição.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md",
@@ -218,13 +220,10 @@
     "Excalidraw/Drawing 2024-09-08 11.42.02.excalidraw.md",
     "PDFs e imgs/Excalidraw/Drawing 2024-09-08 11.20.30.excalidraw.md",
     "PDFs e imgs/Excalidraw",
-    "Java/Lógica_Algoritmos_Java/Estrutura Repetiticas",
     "Java/Lógica_Algoritmos_Java/Estrutura Condicional/OpeAtribuiçãoCumulativa, Switch-Case, ExpTernaria, EscopoInicialização.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Estrutura condicional if-else.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Exercicios estrutura condicional.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Expressões lógicas e relacionais.md",
-    "Mapas Mentais Python/Mapa mental dicionários.md",
     "Sem título.canvas",
     "PDFs e imgs/Sem título.canvas"
   ]
