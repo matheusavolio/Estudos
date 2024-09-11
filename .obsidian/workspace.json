@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Topicos basicos extras/CamelCase, PascalCase, Bitwise, Comentários.md",
+                "file": "Java/Lógica_Algoritmos_Java/Tópicos básicos/CamelCase, PascalCase, Bitwise, Comentários.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Topicos basicos extras/CamelCase, PascalCase, Bitwise, Comentários.md",
+                "file": "Java/Lógica_Algoritmos_Java/Tópicos básicos/Funções para Strings.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Topicos basicos extras/CamelCase, PascalCase, Bitwise, Comentários.md",
+                "file": "Java/Lógica_Algoritmos_Java/Tópicos básicos/Funções para Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Topicos basicos extras/CamelCase, PascalCase, Bitwise, Comentários.md",
+                "file": "Java/Lógica_Algoritmos_Java/Tópicos básicos/Funções para Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Topicos basicos extras/CamelCase, PascalCase, Bitwise, Comentários.md"
+                "file": "Java/Lógica_Algoritmos_Java/Tópicos básicos/Funções para Strings.md"
               }
             }
           },
@@ -184,11 +184,11 @@
   },
   "active": "ba4ce5503f39eb88",
   "lastOpenFiles": [
-    "Java/Lógica_Algoritmos_Java/Topicos basicos extras/Funções para Strings.md",
-    "Java/Lógica_Algoritmos_Java/Topicos basicos extras/CamelCase, PascalCase, Bitwise, Comentários.md",
+    "Java/Lógica_Algoritmos_Java/Tópicos básicos/CamelCase, PascalCase, Bitwise, Comentários.md",
+    "Java/Lógica_Algoritmos_Java/Tópicos básicos/Funções para Strings.md",
     "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
     "Java/Lógica_Algoritmos_Java/Estrutura de repetição/Estruturas de repetição.md",
-    "Java/Lógica_Algoritmos_Java/Topicos basicos extras",
+    "Java/Lógica_Algoritmos_Java/Tópicos básicos",
     "PDFs e imgs/Pasted image 20240910154130.png",
     "PDFs e imgs/Pasted image 20240910154038.png",
     "PDFs e imgs/Pasted image 20240910154009.png",
