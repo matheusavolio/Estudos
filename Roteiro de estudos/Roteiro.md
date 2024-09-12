@@ -19,3 +19,4 @@ https://github.com/matheusavolio/calculadora-basica.git
 
 [https://techguide.sh/pt-BR/path/java/]
 https://devsuperior.com.br/udemy-java-mapa
+file:///C:/Users/mavol/Downloads/Curso-Java-COMPLETO.pdf
