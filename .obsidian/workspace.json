@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "f19b982c8731d973",
+    "id": "e2998a998d19a35c",
     "type": "split",
     "children": [
       {
-        "id": "d98c3139b53a6bd0",
+        "id": "f6f6d13d9d650e1f",
         "type": "tabs",
         "children": [
           {
-            "id": "3542cb401d4e6563",
+            "id": "e9da61008fd929ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Introdução a POO/Materiais de apoio.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e76915d2ec3a421b",
+    "id": "bab9f049853e3f48",
     "type": "split",
     "children": [
       {
-        "id": "805d6763c8bd291c",
+        "id": "243be64d43ed276f",
         "type": "tabs",
         "children": [
           {
-            "id": "0db3770cf0dc53d4",
+            "id": "02ec1759d8be77b6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +39,12 @@
             }
           },
           {
-            "id": "4e58086a1e6986ad",
+            "id": "4fb6abb64ffa0b93",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Amazon EC2",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "86049c9b498b683d",
+            "id": "69cb83e5082bd46b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "8996363c935f1cda",
+    "id": "e4ddb5f6fce3a050",
     "type": "split",
     "children": [
       {
-        "id": "2bb5975a667da1f4",
+        "id": "2aa53593cd00e725",
         "type": "tabs",
         "children": [
           {
-            "id": "a6b92f02b1e7ae5d",
+            "id": "08637a4783bab405",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Introdução a POO/Materiais de apoio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "1d95d062f04f41c8",
+            "id": "983a119d396bf840",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Introdução a POO/Materiais de apoio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7206f67d8c02873c",
+            "id": "aad37825fc8daaf6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,25 +114,14 @@
             }
           },
           {
-            "id": "a83c9250d91b4022",
+            "id": "bf774246f83733ce",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Introdução a POO/Materiais de apoio.md"
-              }
-            }
-          },
-          {
-            "id": "e0cf1e9b290cb2c0",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,76 +130,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3542cb401d4e6563",
+  "active": "e9da61008fd929ee",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "PDFs e imgs/meoria.poo.ex.jpg",
-    "PDFs e imgs/memorio.poo.ex2.jpg",
-    "PDFs e imgs/Instanciação.jpg",
-    "Java/Introdução a POO/Classes, objetos e atributos.md",
-    "Java/Introdução a POO/Materiais de apoio.md",
-=======
-    "Sem título.canvas",
-    "Java/Introdução a POO/Classes, objetos e atributos.md",
-    "Java/Introdução a POO/Materiais de apoio.md",
-    "Untitled mindmap.md",
-    "Excalidraw/Drawing 2024-09-11 21.29.10.excalidraw.md",
-    "AWS/Segurança nuvem AWS/Seção 2 - AWS IAM.md",
-    "PDFs e imgs/meoria.poo.ex.jpg",
-    "PDFs e imgs/memorio.poo.ex2.jpg",
-    "PDFs e imgs/Instanciação.jpg",
->>>>>>> dev
-    "Excalidraw/Drawing 2024-09-11 17.13.31.excalidraw.md",
-    "Sem título",
-    "Anotações_cursos_2/Python2/Documentações.md",
-    "PDFs e imgs/03-classes-atributos-membros-staticos.pdf",
+    "Java/POO - Parte 1/Reaproveitamento e Delegação.md",
     "Java/Lógica_Algoritmos_Java/Tópicos básicos/Funções (sintaxe).md",
+    "Java/Introdução a POO/Materiais de apoio.md",
+    "Java/Introdução a POO/Classes, objetos e atributos.md",
     "Java/Introdução a POO",
-    "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Condicional/OpeAtribuiçãoCumulativa, Switch-Case, ExpTernaria, EscopoInicialização.md",
+    "Java/POO - Parte 1/Materiais de apoio.md",
+    "Java/POO - Parte 1/Classes, objetos e atributos.md",
+    "PDFs e imgs/Diagram.svg",
+    "Scrum/Scrum - Guia.md",
+    "PDFs e imgs/Diagram.svg.xml",
+    "PDFs e imgs/Capturar.jpg",
+    "Java/Lógica_Algoritmos_Java/Tópicos básicos/Métodos-Funções(sintaxe).md",
     "Java/Lógica_Algoritmos_Java/Tópicos básicos/Funções para Strings.md",
-    "Java/Lógica_Algoritmos_Java/Tópicos básicos/CamelCase, PascalCase, Bitwise, Comentários.md",
-    "Java/Lógica_Algoritmos_Java/Tópicos básicos",
-    "Java/Lógica_Algoritmos_Java/Estrutura de repetição/Estruturas de repetição.md",
-    "PDFs e imgs/Pasted image 20240910154130.png",
-    "PDFs e imgs/Pasted image 20240910154038.png",
-    "PDFs e imgs/Pasted image 20240910154009.png",
-    "PDFs e imgs/Pasted image 20240910153929.png",
-    "PDFs e imgs/Pasted image 20240910153844.png",
-    "PDFs e imgs/Pasted image 20240910153635.png",
-    "PDFs e imgs/Pasted image 20240910152346.png",
-<<<<<<< HEAD
-    "AWS/Segurança nuvem AWS/Seção 2 - AWS IAM.md",
-=======
->>>>>>> dev
-    "AWS/Segurança nuvem AWS/Seção 1 - Modelo de responsabilidade compartilhada da AWS.md",
-    "AWS/Segurança nuvem AWS",
-    "AWS/Visão geral da infraestrutura global AWS/Seção 2 - Visão geral dos serviços e das categorias de serviços da AWS.md",
-    "AWS/Visão geral da infraestrutura global AWS/Seção 1 - Infraestrutura global AWS.md",
-    "PDFs e imgs/07-outros-topicos-basicos.pdf",
-    "AWS/Visão geral de nuvem/Seção 4 - Mudança para a Nuvem AWS - AWS Cloud Adoption Framework (AWS CAF).md",
-    "AWS/Visão geral de nuvem/Seção 3 - Introdução a Amazon Web Services.md",
-    "AWS/Visão geral da infraestrutura global AWS",
-    "Java/Debug dos exercicios/Exercício de fixação 1.md",
-    "Java/Debug dos exercicios/Calculo de média V1.md",
-    "Java/Debug dos exercicios",
-    "AWS/Visão geral de nuvem/Seção 2 - Vantagens da computação em nuvem.md",
-    "AWS/Visão geral de nuvem/Seção 1 - Introdução a computação em nuvem.md",
-    "Java/Lógica_Algoritmos_Java/Outros tópicos basicos",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/ExpArit, Variáveis, Tipos primitivos, Input, Output e Casting.md",
-    "Excalidraw/TesteDeMesaor.md",
-    "PDFs e imgs/06-estruturas-repetitivas.pdf",
-    "PDFs e imgs/Sem título.canvas"
+    "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+    "Roteiro de estudos/Roteiro.md"
   ]
 }
