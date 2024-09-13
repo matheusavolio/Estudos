@@ -63,7 +63,7 @@ Para melhorar isso, podemos utilizar uma classe para representar o triângulo
 
 ---
 ---
-# #Classe
+# O que é uma classe?
 
 - É um tipo estruturado que pode conter (membros)
 	- `Atributos` (dados/campos)
@@ -182,7 +182,7 @@ public class Program {
 }
 ```
 
-#### #Instanciação
+#### Instanciação
 `alocação de memória`
 
 As variáveis declaradas, são criadas numa área da memória chamada de `Stack`, que é a área aonde são criadas as variáveis estáticas 
@@ -201,3 +201,7 @@ Então, a variável `x` é uma referência ao objeto que está no `heap`
 #Classes #Objetos #Atributos
 - Classe: É a definição do tipo
 - Objetos - são instâncias da classe
+
+---
+---
+

@@ -84,7 +84,7 @@ public class Program {
 
 #### Projeto da classe (UML)
 
-![[Diagram.svg]]
+![[Diagram 2.svg]]
 #UML São dividos em três partes, Nome da classe, nome dos atributos e seus tipos, nome do método e seu tipo.
 
 
@@ -92,3 +92,6 @@ Os dois benefícios de se calcular a área de um triângulo por meio de um #Mét
 - **Reaproveitamento de código**: Foi eliminado o código repetido (calculo das áreas dos triângulos x e y) no programa principal
 - **Delegação de responsabilidade**: Quem deve ser responsável por saber como calcular a área de um triângulo, é o próprio triângulo. A lógica do cálculo da área não deve estar em outro lugar. Cada classe é responsável por si mesmo, isso é um princípio chamado de Coesão.
 
+
+#this
+`this` significa uma auto-referência ao objeto, é como se fosse uma referência para acessar o atributo da classe, por exemplo, temos a `classe product` que um de seus atributos é um i`nt quantity`, porém criamos um método que tem um `quantity` também no seu argumento, utilizamos o `this.quantity para nos referirmos ao atributo quantity da classe, e não ao parâmetro quantity`.
