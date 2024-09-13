@@ -52,3 +52,40 @@ Além de atributos e métodos, as classes oferecem diversos recursos avançados 
 - #Serviços: Fornecem funcionalidades específicas, como `ProdutoService` (serviço relacionado a produtos), `EmailService` (serviço de envio de e-mails), e `StorageService` (serviço de armazenamento de dados).
 - #Controladores: São responsáveis por gerenciar fluxos de trabalho, como `ProdutoController` e `ClienteController`, que controlam as interações com produtos e clientes.
 - #Utilitários: Fornecem funcionalidades gerais e reutilizáveis, como `Calculadora` (para realizar cálculos) e `Compactador` (para compactar arquivos).
+
+---
+---
+
+### O que é #this?
+
+A palavra-chave **`this`** em programação orientada a objetos é uma **auto-referência** ao objeto atual. Isso significa que, quando você usa `this` dentro de um método, está se referindo ao **objeto específico** que está chamando aquele método.
+
+Ela é especialmente útil quando há ambiguidade entre os **atributos da classe** e os **parâmetros do método**, ambos com o mesmo nome. Nesse caso, o `this` ajuda a diferenciar entre eles.
+
+### Exemplo Prático:
+
+Imagine que temos a classe `Product`, e dentro dessa classe há um atributo `quantity`. Agora, suponha que você cria um método que também possui um parâmetro chamado `quantity`:
+
+```java
+public class Product {     
+	private int quantity;      
+	public void setQuantity(int quantity) {         
+		this.quantity = quantity;     
+		} 
+	}
+```
+- **`this.quantity`**: Refere-se ao **atributo da classe** `Product`.
+- **`quantity`** (sem `this`): Refere-se ao **parâmetro** passado para o método `setQuantity`.
+
+Neste exemplo, ao usar `this.quantity`, estamos deixando claro que queremos modificar o atributo `quantity` do objeto **Product**, e não o parâmetro local do método.
+
+### Quando usar `this`?
+
+- Quando os nomes dos **atributos** da classe e dos **parâmetros** do método são os mesmos.
+- Para tornar o código mais claro, deixando explícito que você está se referindo ao objeto atual.
+
+Sem o `this`, o programa pode ficar confuso sobre qual valor está sendo modificado, principalmente quando atributos e parâmetros têm o mesmo nome.
+
+
+---
+---
