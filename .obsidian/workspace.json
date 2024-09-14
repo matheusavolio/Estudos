@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/POO - Parte 1/Reaproveitamento e Delegação.md",
+                "file": "Java/POO - Parte 1/Um segundo exercício de exemplo.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/POO - Parte 1/Materiais de apoio.md",
+                "file": "Java/Resumos/POO/Public, static e void.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Expressões lógicas e relacionais.md",
+                "file": "Java/Resumos/POO/Classe, instanciação e this.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fadac184ec20396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/POO - Parte 1/Exercícios de fixação.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Controladores",
+                "query": "%d",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Expressões lógicas e relacionais.md",
+                "file": "Java/POO - Parte 1/Exercícios de fixação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Expressões lógicas e relacionais.md",
+                "file": "Java/POO - Parte 1/Exercícios de fixação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Expressões lógicas e relacionais.md"
+                "file": "Java/POO - Parte 1/Exercícios de fixação.md"
               }
             }
           }
@@ -173,31 +185,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f12fb5ca9f1a64f7",
+  "active": "1fadac184ec20396",
   "lastOpenFiles": [
+    "Java/Resumos/POO/Public, static e void.md",
+    "Java/Resumos/POO/Classe, instanciação e this.md",
+    "Java/POO - Parte 1/Exercícios de fixação.md",
+    "Java/Lógica_Algoritmos_Java/Tópicos básicos/Métodos-Funções(sintaxe).md",
+    "Java/POO - Parte 1/Um segundo exercício de exemplo.md",
+    "Java/Lógica_Algoritmos_Java/Tópicos básicos/Funções para Strings.md",
+    "Java/POO - Parte 1/Materiais de apoio.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
+    "Java/Lógica_Algoritmos_Java/Tópicos básicos/CamelCase, PascalCase, Bitwise, Comentários.md",
+    "Anotações_cursos_2/Java-Dio/Anatomia das Classes.md",
+    "Java/POO - Parte 1/Reaproveitamento e Delegação.md",
+    "Java/POO - Parte 1/Classes, objetos, atributos e instanciação.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Expressões lógicas e relacionais.md",
     "PDFs e imgs/ex_fixação_2.jpg",
     "PDFs e imgs/ex_fixação_1.jpg",
     "PDFs e imgs/Ex_fixação_3.jpg",
     "PDFs e imgs/Diagram 3.svg.xml",
     "PDFs e imgs/Diagram 3.svg",
-    "Java/Resumos/POO/Public, static e void.md",
-    "Java/Resumos/POO/Classe, instanciação e this.md",
-    "Java/POO - Parte 1/Exercícios de fixação.md",
     "Java/Resumos/POO/Classe e instanciação.md",
-    "Java/POO - Parte 1/Reaproveitamento e Delegação.md",
-    "Java/POO - Parte 1/Materiais de apoio.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Expressões lógicas e relacionais.md",
     "PDFs e imgs/Diagram 2.svg.xml",
     "PDFs e imgs/Diagram 2.svg",
     "Java/Resumos/POO",
     "Java/Resumos",
-    "Java/POO - Parte 1/Um segundo exercício de exemplo.md",
-    "Java/POO - Parte 1/Classes, objetos, atributos e instanciação.md",
     "Java/POO - Parte 1/Classes, objetos e atributos.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Condicional/OpeAtribuiçãoCumulativa, Switch-Case, ExpTernaria, EscopoInicialização.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Exercicios estrutura condicional.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Estrutura condicional if-else.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Processamento de dados.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/ExpArit, Variáveis, Tipos primitivos, Input, Output e Casting.md",
@@ -209,11 +225,8 @@
     "PDFs e imgs/Diagram.svg",
     "PDFs e imgs/Capturar.jpg",
     "Java/POO - Parte 1",
-    "Java/Lógica_Algoritmos_Java/Tópicos básicos/Métodos-Funções(sintaxe).md",
     "Java/Lógica_Algoritmos_Java/Tópicos básicos/Funções (sintaxe).md",
     "Java/Introdução a POO/Materiais de apoio.md",
-    "Java/Introdução a POO/Classes, objetos e atributos.md",
-    "Java/Introdução a POO",
-    "Scrum/Scrum - Guia.md"
+    "Java/Introdução a POO"
   ]
 }
