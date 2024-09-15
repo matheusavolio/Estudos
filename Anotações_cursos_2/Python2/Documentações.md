@@ -1,4 +1,3 @@
-#  #Documentações
 
 ## #OperaçõesBooleanas — `and`, `or`, `not`[](https://docs.python.org/pt-br/3/library/stdtypes.html#boolean-operations-and-or-not "Link para este cabeçalho")
 

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2e08d5d28a98494",
+            "id": "4d1576f1052f460e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4a69e96a0698156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Encapsulamento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "290e9468790b839a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/POO - Parte 1/Materiais de apoio.md",
+                "file": "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Encapsulamento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/POO - Parte 1/Materiais de apoio.md",
+                "file": "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Encapsulamento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/POO - Parte 1/Materiais de apoio.md"
+                "file": "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Encapsulamento.md"
               }
             }
           }
@@ -138,60 +159,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
+      "switcher:Abrir a troca rápida": true,
       "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "daily-notes:Abrir a nota de hoje": true,
+      "templates:Inserir modelo": true,
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "02ec1759d8be77b6",
+  "active": "d4a69e96a0698156",
   "lastOpenFiles": [
-    "PDFs e imgs/EstaticMembers.jpg",
+    "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Encapsulamento.md",
+    "1, 4, 7], [2, 5, 8], [3, 6, 9.md",
+    "Java/POO - Parte 1/Materiais de apoio.md",
+    "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Construtores, This, Sobrecarga.md",
+    "Python/Mapas Mentais Python/Bibliotecas e seus módulos.md",
+    "Anotações_cursos_2/Python2/Documentações.md",
+    "2024-09-15.md",
+    "PDFs e imgs/Ths.jpg",
+    "PDFs e imgs/Capturar2.jpg",
+    "Roteiro de estudos/Roteiro.md",
+    "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento",
+    "PDFs e imgs/04-construtores-this-sobrecarga-encapsulamento 1.pdf",
     "PDFs e imgs/04-construtores-this-sobrecarga-encapsulamento.pdf",
-    "Java/Resumos/POO/public, static, void, membros estáticos e final.md",
-    "Java/POO - Parte 1/Introdução ao POO/Segundo ExPoo ,Object, toString.md",
-    "Java/POO - Parte 1/Introdução ao POO/Reaproveitamento, Delegação e Membros estáticos.md",
-    "Java/POO - Parte 1/Introdução ao POO/Exercícios de fixação.md",
+    "PDFs e imgs/04-estrutura-sequencial (1).pdf",
+    "PDFs e imgs/03-classes-atributos-membros-staticos.pdf",
+    "PDFs e imgs/07-outros-topicos-basicos.pdf",
+    "PDFs e imgs/Capturar.jpg",
+    "PDFs e imgs/Contribuindo em um Projeto Open Source no GitHub.pdf",
+    "PDFs e imgs/Curso-Java-COMPLETO.pdf",
+    "PDFs e imgs/Diagram.svg",
+    "PDFs e imgs/Diagram 2.svg",
+    "PDFs e imgs/Diagram 3.svg",
+    "PDFs e imgs/EstaticMembers.jpg",
+    "PDFs e imgs/ex_fixação_1.jpg",
+    "PDFs e imgs/ex_fixação_2.jpg",
+    "PDFs e imgs/Ex_fixação_3.jpg",
+    "PDFs e imgs/git-guia-basico.pdf",
+    "PDFs e imgs/introducao-linguagem-java 1.pdf",
     "Java/POO - Parte 1/Introdução ao POO/Classes, objetos, atributos e instanciação.md",
-    "Java/POO - Parte 1/Introdução ao POO",
+    "Java/POO - Parte 1/Introdução ao POO/Exercícios de fixação.md",
+    "Java/POO - Parte 1/Introdução ao POO/Reaproveitamento, Delegação e Membros estáticos.md",
+    "Java/POO - Parte 1/Introdução ao POO/Segundo ExPoo ,Object, toString.md",
+    "Java/Resumos/POO/public, static, void, membros estáticos e final.md",
     "Java/Resumos/POO/Public, static e void.md",
     "Java/POO - Parte 1/Um segundo exercício de exemplo.md",
     "Java/POO - Parte 1/Reaproveitamento e Delegação.md",
     "Java/POO - Parte 1/Exercícios de fixação.md",
     "Java/POO - Parte 1/Classes, objetos, atributos e instanciação.md",
-    "PDFs e imgs/04-construtores-this-sobrecarga-encapsulamento 1.pdf",
-    "Java/POO - Parte 1/Materiais de apoio.md",
     "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
     "Java/POO - Parte 1/Introdução ao POO/Materiais de apoio.md",
-    "PDFs e imgs/02-conceitos-de-programacao.pdf",
-    "PDFs e imgs/02-exercicios1-estrutura-sequencial (1).pdf",
-    "PDFs e imgs/02-exercicios2-estrutura-condicional.pdf",
-    "PDFs e imgs/03-classes-atributos-membros-staticos.pdf",
-    "PDFs e imgs/04-estrutura-sequencial (1).pdf",
-    "PDFs e imgs/05-estrutura-condicional.pdf",
-    "PDFs e imgs/06-estruturas-repetitivas.pdf",
     "Java/Lógica_Algoritmos_Java/Materiais de apoio 1.md",
-    "Roteiro de estudos/Roteiro.md",
     "Java/Resumos/POO/Classe, instanciação e this.md",
     "Java/Lógica_Algoritmos_Java/Tópicos básicos/Métodos-Funções(sintaxe).md",
     "Java/Lógica_Algoritmos_Java/Tópicos básicos/Funções para Strings.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
-    "Java/Lógica_Algoritmos_Java/Tópicos básicos/CamelCase, PascalCase, Bitwise, Comentários.md",
-    "Anotações_cursos_2/Java-Dio/Anatomia das Classes.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Expressões lógicas e relacionais.md",
-    "PDFs e imgs/ex_fixação_2.jpg",
-    "PDFs e imgs/ex_fixação_1.jpg",
-    "PDFs e imgs/Ex_fixação_3.jpg",
-    "PDFs e imgs/Diagram 3.svg",
-    "Java/Resumos/POO/Classe e instanciação.md",
-    "PDFs e imgs/Diagram 2.svg",
-    "Java/POO - Parte 1/Classes, objetos e atributos.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Condicional/OpeAtribuiçãoCumulativa, Switch-Case, ExpTernaria, EscopoInicialização.md",
-    "PDFs e imgs/Diagram.svg",
-    "PDFs e imgs/Capturar.jpg"
+    "Java/Lógica_Algoritmos_Java/Tópicos básicos/CamelCase, PascalCase, Bitwise, Comentários.md"
   ]
 }
