@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9da61008fd929ee",
+            "id": "b2e08d5d28a98494",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/POO - Parte 1/Um segundo exercício de exemplo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4aa5cb7d0b2e5f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Resumos/POO/Public, static e void.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f12fb5ca9f1a64f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Resumos/POO/Classe, instanciação e this.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fadac184ec20396",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/POO - Parte 1/Exercícios de fixação.md",
+                "file": "Java/POO - Parte 1/Materiais de apoio.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/POO - Parte 1/Exercícios de fixação.md",
+                "file": "Java/POO - Parte 1/Materiais de apoio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/POO - Parte 1/Exercícios de fixação.md",
+                "file": "Java/POO - Parte 1/Materiais de apoio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/POO - Parte 1/Exercícios de fixação.md"
+                "file": "Java/POO - Parte 1/Materiais de apoio.md"
               }
             }
           }
@@ -185,48 +148,51 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1fadac184ec20396",
+  "active": "02ec1759d8be77b6",
   "lastOpenFiles": [
     "Java/Resumos/POO/Public, static e void.md",
-    "Java/Resumos/POO/Classe, instanciação e this.md",
-    "Java/POO - Parte 1/Exercícios de fixação.md",
-    "Java/Lógica_Algoritmos_Java/Tópicos básicos/Métodos-Funções(sintaxe).md",
     "Java/POO - Parte 1/Um segundo exercício de exemplo.md",
-    "Java/Lógica_Algoritmos_Java/Tópicos básicos/Funções para Strings.md",
+    "Java/POO - Parte 1/Reaproveitamento e Delegação.md",
+    "Java/POO - Parte 1/Exercícios de fixação.md",
+    "Java/POO - Parte 1/Classes, objetos, atributos e instanciação.md",
+    "PDFs e imgs/04-construtores-this-sobrecarga-encapsulamento 1.pdf",
+    "Java/Resumos/POO/public, static, void, membros estáticos e final.md",
     "Java/POO - Parte 1/Materiais de apoio.md",
+    "Java/Lógica_Algoritmos_Java/Materiais de apoio.md",
+    "Java/POO - Parte 1/Introdução ao POO/Segundo ExPoo ,Object, toString.md",
+    "Java/POO - Parte 1/Introdução ao POO/Materiais de apoio.md",
+    "PDFs e imgs/02-conceitos-de-programacao.pdf",
+    "PDFs e imgs/02-exercicios1-estrutura-sequencial (1).pdf",
+    "PDFs e imgs/02-exercicios2-estrutura-condicional.pdf",
+    "PDFs e imgs/03-classes-atributos-membros-staticos.pdf",
+    "PDFs e imgs/04-construtores-this-sobrecarga-encapsulamento.pdf",
+    "PDFs e imgs/04-estrutura-sequencial (1).pdf",
+    "PDFs e imgs/05-estrutura-condicional.pdf",
+    "PDFs e imgs/06-estruturas-repetitivas.pdf",
+    "PDFs e imgs/07-outros-topicos-basicos.pdf",
+    "Java/Lógica_Algoritmos_Java/Materiais de apoio 1.md",
+    "Roteiro de estudos/Roteiro.md",
+    "Java/Resumos/POO/Classe, instanciação e this.md",
+    "Java/POO - Parte 1/Introdução ao POO/Exercícios de fixação.md",
+    "Java/POO - Parte 1/Introdução ao POO/Reaproveitamento, Delegação e Membros estáticos.md",
+    "PDFs e imgs/EstaticMembers.jpg",
+    "Java/POO - Parte 1/Introdução ao POO/Classes, objetos, atributos e instanciação.md",
+    "Java/Lógica_Algoritmos_Java/Tópicos básicos/Métodos-Funções(sintaxe).md",
+    "Java/Lógica_Algoritmos_Java/Tópicos básicos/Funções para Strings.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Saída de dados em Java.md",
     "Java/Lógica_Algoritmos_Java/Tópicos básicos/CamelCase, PascalCase, Bitwise, Comentários.md",
     "Anotações_cursos_2/Java-Dio/Anatomia das Classes.md",
-    "Java/POO - Parte 1/Reaproveitamento e Delegação.md",
-    "Java/POO - Parte 1/Classes, objetos, atributos e instanciação.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Expressões lógicas e relacionais.md",
     "PDFs e imgs/ex_fixação_2.jpg",
     "PDFs e imgs/ex_fixação_1.jpg",
     "PDFs e imgs/Ex_fixação_3.jpg",
-    "PDFs e imgs/Diagram 3.svg.xml",
     "PDFs e imgs/Diagram 3.svg",
     "Java/Resumos/POO/Classe e instanciação.md",
-    "PDFs e imgs/Diagram 2.svg.xml",
     "PDFs e imgs/Diagram 2.svg",
-    "Java/Resumos/POO",
-    "Java/Resumos",
     "Java/POO - Parte 1/Classes, objetos e atributos.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Condicional/OpeAtribuiçãoCumulativa, Switch-Case, ExpTernaria, EscopoInicialização.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Exercicios estrutura condicional.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Condicional/Estrutura condicional if-else.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Processamento de dados.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Funções matemáticas.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/ExpArit, Variáveis, Tipos primitivos, Input, Output e Casting.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Exercícios estrutura sequencial.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/Entrada de dados em Java.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura de repetição/Estruturas de repetição.md",
-    "Java/Resumos Java/Logica_Algoritmos",
-    "PDFs e imgs/Diagram.svg.xml",
     "PDFs e imgs/Diagram.svg",
-    "PDFs e imgs/Capturar.jpg",
-    "Java/POO - Parte 1",
-    "Java/Lógica_Algoritmos_Java/Tópicos básicos/Funções (sintaxe).md",
-    "Java/Introdução a POO/Materiais de apoio.md",
-    "Java/Introdução a POO"
+    "PDFs e imgs/Capturar.jpg"
   ]
 }
