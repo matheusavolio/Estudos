@@ -1,3 +1,4 @@
+# Aula79 - Encapsulamento 
 #### #Encapsulamento
 
 - É um princípio que consiste em esconder detalhes de implementação de uma classe, expondo apenas operações seguras que mantenham os objetos em um estado consistente.
@@ -99,3 +100,24 @@ public class Product { // classe principal
         System.out.println("Updated price: " + product.getPrice()); 
         // acessando atributo encapsulado
 ```
+
+---
+---
+
+# Aula80 - Gerando automaticamente construtores, getters e setters.
+#### #GerarGetSetConstructorAutomaticamente
+
+Para gerar #getters, #setter e #constructor, no Intellij utilizamos alt + insert para abrir a paleta de geração, e podemos selecionar o que gerar automaticamente por lá 
+
+---
+---
+
+
+# Aula81 - Modificadores de acessos
+
+- #private: O membro só pode ser acessado na `própria classe`
+- (nada): O membro só pode ser acessado nas classes do `mesmo pacote`
+- #protectec: O membro só pode ser acessado no` mesmo pacote`, bem como em `subclasses de pacotes diferentes`
+- #public: O membro é acessado por todas as classes (ao menos que ele resida em módulo diferente que não exporte o pacote onde ele está )
+
+![[Pasted image 20240917111513.png]]
