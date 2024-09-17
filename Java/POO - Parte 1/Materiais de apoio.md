@@ -7,3 +7,7 @@
 # Construtores, this, sobrecarga, encapsulamento
 
 ![[04-construtores-this-sobrecarga-encapsulamento 1.pdf]]
+
+# Memórias, Listas e arrays
+
+![[05-memoria-arrays-e-listas.pdf]]

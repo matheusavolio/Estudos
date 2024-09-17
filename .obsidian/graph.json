@@ -4,19 +4,48 @@
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": -2.2,
-  "nodeSizeMultiplier": 0.857209136331192,
-  "lineSizeMultiplier": 1.33286937901499,
+  "colorGroups": [
+    {
+      "query": "file:Java",
+      "color": {
+        "a": 1,
+        "rgb": 13531175
+      }
+    },
+    {
+      "query": "path:\"Java/POO - Parte 1\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12221699
+      }
+    },
+    {
+      "query": "path:Java/Lógica_Algoritmos_Java  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Java/Resumos  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 0.43750892219843,
+  "lineSizeMultiplier": 1.0250892219843,
   "collapse-forces": false,
-  "centerStrength": 0.38865096359743,
-  "repelStrength": 10.2855103497502,
-  "linkStrength": 0.428622412562455,
-  "linkDistance": 296,
-  "scale": 0.2185381835815442,
+  "centerStrength": 0.103140613847252,
+  "repelStrength": 5.60314061384725,
+  "linkStrength": 0.0974304068522484,
+  "linkDistance": 68,
+  "scale": 0.10423897963771118,
   "close": true
 }
