@@ -8,20 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82cca24bf23dfccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/POO - Parte 1/Materiais de apoio.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f67d22fd216458c4",
+            "id": "d584ba334669d1e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,11 +21,16 @@
             }
           },
           {
-            "id": "8768706bf6a4a9f8",
+            "id": "412ecbe5985abb42",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/POO - Parte 1/Materiais de apoio.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -108,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/POO - Parte 1/memória, arrays e listas/Vetores.md",
+                "file": "Java/POO - Parte 1/Materiais de apoio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/POO - Parte 1/memória, arrays e listas/Vetores.md"
+                "file": "Java/POO - Parte 1/Materiais de apoio.md"
               }
             }
           },
@@ -164,35 +156,41 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "02ec1759d8be77b6",
+  "active": "412ecbe5985abb42",
   "lastOpenFiles": [
-    "Java/POO - Parte 1/Materiais de apoio.md",
-    "Java/POO - Parte 1/memória, arrays e listas/Tipos referência vs tipo valor, garbage collector e escopo local.md",
-    "Java/POO - Parte 1/memória, arrays e listas/Garbage collector e escopo local.md",
     "Java/POO - Parte 1/memória, arrays e listas/Vetores.md",
-    "PDFs e imgs/myVect.jpg",
-    "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Exercício de fixação.md",
-    "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Construtores, This, Sobrecarga.md",
-    "Java/Resumos/POO/Garbage collector e escopo local.md",
-    "Java/Resumos/POO/Tipos referências vs tipo valor.md",
+    "Java/POO - Parte 1/Materiais de apoio.md",
+    "PDFs e imgs/05-exercicios-de-fixacao-vetores.pdf",
+    "Git e GitHub/Mapa Mental de Como Utilizar Git e GitHub.md",
+    "Git e GitHub/Git configurações iniciais.md",
+    "Git e GitHub/O que é GIT.md",
+    "Git e GitHub.md",
+    "Git e GitHub.pdf",
+    "PDFs e imgs/primitvos_caixas.jpg",
     "PDFs e imgs/primitvos_caixas 1.jpg",
+    "PDFs e imgs/myVect.jpg",
+    "PDFs e imgs/memória.jpg",
     "PDFs e imgs/memória 1.jpg",
-    "PDFs e imgs/Classes_referencias 1.jpg",
+    "PDFs e imgs/garbageCollector.jpg",
     "PDFs e imgs/desalocçãoEscopo2.jpg",
     "PDFs e imgs/desalocaçãoEscopo.jpg",
-    "PDFs e imgs/garbageCollector.jpg",
-    "PDFs e imgs/memória.jpg",
+    "PDFs e imgs/Classes_referencias.jpg",
+    "PDFs e imgs/Classes_referencias 1.jpg",
+    "Java/Resumos/POO/Tipos referências vs tipo valor.md",
+    "Java/Resumos/POO/Garbage collector e escopo local.md",
+    "Java/Resumos/POO/Construtores e encapsulamento.md",
+    "Java/POO - Parte 1/memória, arrays e listas/Tipos referência vs tipo valor, garbage collector e escopo local.md",
+    "Java/POO - Parte 1/memória, arrays e listas/Garbage collector e escopo local.md",
+    "Java/POO - Parte 1/memória, arrays e listas",
+    "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Exercício de fixação.md",
+    "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Construtores, This, Sobrecarga.md",
     "Java/POO - Parte 1/Introdução ao POO/Segundo ExPoo ,Object, toString.md",
     "Java/POO - Parte 1/Introdução ao POO/Reaproveitamento, Delegação e Membros estáticos.md",
     "Java/POO - Parte 1/Introdução ao POO/Exercícios de fixação.md",
     "Java/POO - Parte 1/Introdução ao POO/Classes, objetos, atributos e instanciação.md",
     "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/ExpArit, Variáveis, Tipos primitivos, Input, Output e Casting.md",
-    "PDFs e imgs/primitvos_caixas.jpg",
-    "PDFs e imgs/Classes_referencias.jpg",
     "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Encapsulamento, Modificadores de acessos.md",
-    "Java/POO - Parte 1/memória, arrays e listas",
     "Java/Resumos/POO/public, static, void, membros estáticos e final.md",
-    "Java/Resumos/POO/Construtores e encapsulamento.md",
     "Java/Resumos/POO/Classe, instanciação e this.md",
     "Java/POO - Parte 1/Memória, array e listas",
     "PDFs e imgs/05-memoria-arrays-e-listas.pdf",
@@ -200,16 +198,10 @@
     "Python/Mapas Mentais Python/Mapa mental Tuplas.md",
     "Python/Mapas Mentais Python/Mapa mental Tratamento de Erro e Exceção.md",
     "Python/Mapas Mentais Python/Mapa mental operadores de lógicos.md",
-    "Python/Mapas Mentais Python/Mapa mental operadores de comparação.md",
-    "Python/Mapas Mentais Python/Mapa mental operadores aritméticos.md",
-    "Python/Mapas Mentais Python/Mapa mental modularização e pacotes.md",
-    "Python/Mapas Mentais Python/Mapa Mental manipulação de arquivo .txt.md",
     "Python/Mapas Mentais Python",
     "PDFs e imgs/04-construtores-this-sobrecarga-encapsulamento 1.pdf",
     "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento",
     "Mapas Mentais Python",
-    "PDFs e imgs/04-construtores-this-sobrecarga-encapsulamento.pdf",
-    "PDFs e imgs/04-estrutura-sequencial (1).pdf",
-    "PDFs e imgs/03-classes-atributos-membros-staticos.pdf"
+    "PDFs e imgs/04-construtores-this-sobrecarga-encapsulamento.pdf"
   ]
 }

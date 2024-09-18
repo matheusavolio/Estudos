@@ -10,4 +10,4 @@
 
 # Memórias, Listas e arrays
 
-![[05-memoria-arrays-e-listas.pdf]]
+![[05-memoria-arrays-e-listas.pdf]]![[05-exercicios-de-fixacao-vetores.pdf]]
