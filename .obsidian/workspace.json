@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/POO - Parte 1/Materiais de apoio.md",
+                "file": "Java/POO - Parte 1/memória, arrays e listas/Vetores.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/POO - Parte 1/Materiais de apoio.md",
+                "file": "Java/POO - Parte 1/memória, arrays e listas/Vetores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/POO - Parte 1/Materiais de apoio.md"
+                "file": "Java/POO - Parte 1/memória, arrays e listas/Vetores.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "412ecbe5985abb42",
   "lastOpenFiles": [
-    "Java/POO - Parte 1/memória, arrays e listas/Vetores.md",
     "Java/POO - Parte 1/Materiais de apoio.md",
+    "Java/POO - Parte 1/memória, arrays e listas/Vetores.md",
     "PDFs e imgs/05-exercicios-de-fixacao-vetores.pdf",
     "Git e GitHub/Mapa Mental de Como Utilizar Git e GitHub.md",
     "Git e GitHub/Git configurações iniciais.md",
