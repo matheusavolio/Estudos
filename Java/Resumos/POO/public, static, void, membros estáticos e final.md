@@ -76,3 +76,81 @@ public static final int MEDIA_STUDENT = 70;`
 
 Em uma **classe estática**, que contém apenas membros estáticos, você **não pode chamar métodos que não sejam estáticos**. Isso porque métodos não estáticos dependem de instâncias (objetos), e uma classe estática não permite a criação de objetos.
 
+---
+---
+
+## #ModificadoresDeAcessoEmJava
+
+Os modificadores de acesso são usados para controlar **quem pode acessar** os membros (atributos e métodos) de uma classe. Eles ajudam a **proteger os dados** e a **organizar o código** em termos de visibilidade e escopo.
+
+### Tipos de Modificadores de Acesso:
+
+1. #private:
+    
+    - O membro só pode ser acessado **dentro da própria classe**.
+    - Ideal para proteger atributos e métodos que **não devem ser acessados** ou modificados diretamente por outras classes.
+    
+    **Exemplo:**
+    
+    ```java
+    private String password;  
+    // Somente a classe onde foi declarado pode acessar este atributo`
+    ```
+    
+2. **Sem Modificador** (também conhecido como #default** ou **package-private**):
+    
+    - O membro pode ser acessado **somente por classes que estão no mesmo pacote**.
+    - Útil para manter a organização dentro de um pacote sem expor o membro para outras partes do programa.
+    
+    **Exemplo:**
+ 
+    ```java
+    `String name;  
+    // Visível apenas para classes no mesmo pacote`
+    ```
+3. #protected:
+    
+    - O membro pode ser acessado por classes do **mesmo pacote** e também por **subclasses** que estejam em **pacotes diferentes**.
+    - Esse modificador é muito usado quando se quer que subclasses tenham acesso a membros da classe pai.
+    
+    **Exemplo:**
+    
+    ```java
+    protected int age;  
+    // Visível no mesmo pacote e para subclasses em outros pacotes`
+    ```
+4. #public:
+    
+    - O membro pode ser acessado por **qualquer classe**, em **qualquer lugar** do projeto.
+    - Use `public` apenas quando quiser que o membro seja amplamente acessível.
+    - **Atenção**: Se o membro estiver em um **módulo diferente** que **não exporta o pacote** onde ele está, outras classes fora desse módulo **não poderão acessá-lo**.
+    
+    **Exemplo:**
+    
+    
+    ```java
+    public String firstName;  
+    // Visível para todas as classes em qualquer lugar do projeto`
+    ```
+
+---
+
+### Resumo Visual:
+
+|Modificador|Acesso na Própria Classe|Acesso no Mesmo Pacote|Acesso em Subclasses de Pacotes Diferentes|Acesso Global (Todas as Classes)|
+|---|---|---|---|---|
+|`private`|✅|❌|❌|❌|
+|(default)|✅|✅|❌|❌|
+|`protected`|✅|✅|✅|❌|
+|`public`|✅|✅|✅|✅|
+
+---
+
+### Dica de Uso:
+
+- **`private`**: Para proteger atributos sensíveis e garantir que só a própria classe possa manipulá-los.
+- **`default`**: Quando você deseja que apenas classes **do mesmo pacote** compartilhem certos membros, sem expor para o resto do projeto.
+- **`protected`**: Quando deseja **permitir acesso a subclasses**, especialmente em hierarquias de herança.
+- **`public`**: Para expor membros que precisam ser acessados amplamente por **qualquer parte do código**.
+
+Esses modificadores de acesso são fundamentais para garantir a **segurança** e **organização** do seu código, permitindo que apenas as partes corretas do programa tenham acesso a determinados membros da classe.
