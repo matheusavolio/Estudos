@@ -6,5 +6,8 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "propertiesInDocument": "source",
-  "showIndentGuide": false
+  "showIndentGuide": true,
+  "defaultViewMode": "preview",
+  "livePreview": true,
+  "foldHeading": false
 }
