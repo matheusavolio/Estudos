@@ -1,7 +1,8 @@
 {
   "accentColor": "#d49335",
   "theme": "obsidian",
-  "cssTheme": "Wasp",
+  "cssTheme": "Obsidian gruvbox",
   "baseFontSizeAction": true,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "baseFontSize": 20
 }

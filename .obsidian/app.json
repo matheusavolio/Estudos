@@ -1,4 +1,10 @@
 {
   "alwaysUpdateLinks": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "showLineNumber": false,
+  "tabSize": 4,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "source",
+  "showIndentGuide": false
 }
