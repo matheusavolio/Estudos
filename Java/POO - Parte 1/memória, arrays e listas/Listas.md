@@ -207,3 +207,211 @@ String name = myList.stream().filter(x -> x.charAt(0) == 'M').findFirst().orElse
 4. Adicionamos `"Mauricio"`, `"Margarida"`, e `"Lucas"`.
 5. Removemos os elementos que começam com `'M'`, deixando apenas `"Ana"` e `"Lucas"`.
 6. Filtramos e exibimos os elementos que começam com `'M'`, além de buscar o primeiro elemento com essa característica.
+
+---
+---
+### *Código do exercício:*
+```java
+public class Program {  
+    public static void main(String[] args) {  
+        Locale.setDefault(Locale.US);  
+        Scanner sc = new Scanner(System.in);  
+        List<Employee> list = new ArrayList<>();  
+  
+  
+        System.out.print("How many employees will be registered? ");  
+        int n = sc.nextInt();  
+  
+        for (int i = 1; i <= n; i++) {  
+            System.out.printf("Employee #%d:\n", i);  
+  
+            System.out.print("ID: ");  
+            Integer ID = sc.nextInt();  
+            while (hasId(list, ID)) {  
+                System.out.println("Id already taken. Try again: ");  
+            }  
+            System.out.print("Name: ");  
+            sc.nextLine();  
+            String name = sc.nextLine();  
+            System.out.print("Salary: U$");  
+            Double salary = sc.nextDouble();  
+            list.add(new Employee(ID, name, salary));  
+            System.out.println();  
+        }  
+  
+  
+		System.out.print("Enter the employee id that will have salary increase: ");  
+        int getIdd = sc.nextInt();  
+        Employee result = list.stream()  
+                .filter(x -> x.getId() == getIdd)  
+                .findFirst().orElse(null);  
+        if (result == null) {  
+            System.out.println("This id does not exist!");  
+        } else {  
+            System.out.print("Enter the percentage: ");  
+            double percentage = sc.nextDouble();  
+            result.increaseSalary(percentage);  
+        }  
+  
+        System.out.println();  
+        System.out.println("List of employees: ");  
+        for (Employee obj : list) {  
+            System.out.println(obj);  
+        }  
+        sc.close();  
+    }  
+  
+    public static boolean hasId(List<Employee> list, int id) {  
+	        Employee emp = list.stream().filter(x -> x.getId() == 
+	        id).findFirst().orElse(null);  
+        return emp != null;  
+    }  
+}
+```
+
+### *Análise do exercício:*
+### Classe `Program`
+
+```java
+public class Program {`
+```
+- Define uma classe pública chamada `Program`, que será o ponto de entrada do programa.
+
+### Método `main`
+```java
+public static void main(String[] args) {`
+```
+- Este é o método principal que será executado quando o programa começar. A palavra-chave `static` significa que ele pode ser chamado sem instanciar a classe. `String[] args` permite a passagem de argumentos via linha de comando.
+
+### Configuração do Locale
+
+```java
+Locale.setDefault(Locale.US);`
+```
+- Define o padrão de localidade para os Estados Unidos (US), o que afeta a formatação de números e moedas (usando ponto para separar decimais, por exemplo).
+
+### Criação de `Scanner` e `List`
+
+```java
+Scanner sc = new Scanner(System.in); 
+List<Employee> list = new ArrayList<>();`
+```
+- `Scanner` é usado para capturar entradas do usuário via console. A variável `list` é uma `ArrayList` que irá armazenar objetos da classe `Employee`, que presumivelmente é uma classe personalizada (não mostrada no código).
+
+### Pergunta inicial
+
+```java
+System.out.print("How many employees will be registered? "); 
+int n = sc.nextInt();`
+```
+- O programa pergunta quantos funcionários serão registrados. O valor é lido com `sc.nextInt()`, que captura um número inteiro digitado pelo usuário e armazena na variável `n`.
+
+### Loop de registro de funcionários
+
+```java
+for (int i = 1; i <= n; i++) {     
+	System.out.printf("Employee #%d:\n", i);
+```
+- Um loop `for` é iniciado para registrar `n` funcionários. A variável `i` vai de 1 até `n`, e `System.out.printf()` formata a string, exibindo o número do funcionário a ser registrado.
+
+### Leitura do ID
+
+```java
+System.out.print("ID: "); 
+Integer ID = sc.nextInt();`
+```
+- O programa solicita o ID do funcionário e o armazena na variável `ID`.
+
+### Validação do ID (evitar duplicados)
+
+```java
+while (hasId(list, ID)) {     
+	System.out.println("Id already taken. Try again: "); 
+}
+```
+- O método `hasId()` verifica se o ID já foi registrado na lista de funcionários. Se o ID já existir, ele solicita ao usuário que insira um novo ID.
+
+### Leitura do Nome e Salário
+
+```java
+System.out.print("Name: "); 
+sc.nextLine(); // Limpa o buffer String 
+name = sc.nextLine(); 
+System.out.print("Salary: U$"); 
+Double salary = sc.nextDouble();
+```
+- O programa solicita o nome do funcionário e, em seguida, o salário. O comando `sc.nextLine()` vazio é necessário para limpar o buffer de entrada do `Scanner` após o uso de `sc.nextInt()`, garantindo que o nome seja lido corretamente.
+
+### Adicionando o funcionário à lista
+
+java
+
+Copiar código
+
+`list.add(new Employee(ID, name, salary)); System.out.println();`
+
+- Um novo objeto `Employee` é criado e adicionado à lista `list`. O objeto armazena as informações do funcionário.
+
+### Aumento de salário por ID
+```java
+System.out.print("Enter the employee id that will have salary increase: "); 
+int getIdd = sc.nextInt();`
+```
+- O programa solicita o ID do funcionário que terá aumento salarial. Este valor é armazenado em `getIdd`.
+
+### Localizando o funcionário para aumento de salário
+```java
+Employee result = list.stream()     
+	.filter(x -> x.getId() == getIdd)     
+	.findFirst().orElse(null);`
+```
+- Aqui, um `stream()` da lista de funcionários é criado para filtrar o funcionário cujo ID seja igual a `getIdd`. O método `findFirst()` retorna o primeiro funcionário encontrado ou `null` se nenhum funcionário for encontrado com o ID informado.
+
+### Verificação se o ID existe
+
+```java
+if (result == null) {     
+	System.out.println("This id does not exist!"); 
+}
+```
+- Se o funcionário com o ID fornecido não for encontrado, o programa exibe uma mensagem informando que o ID não existe.
+
+### Aplicando o aumento salarial
+
+
+```java
+else {     
+	System.out.print("Enter the percentage: ");     
+	double percentage = sc.nextDouble();     
+	result.increaseSalary(percentage); 
+	}`
+```
+- Se o funcionário for encontrado, o programa solicita a porcentagem do aumento salarial e chama o método `increaseSalary()` para aplicar o aumento.
+
+### Exibição da lista de funcionários
+
+```java
+System.out.println(); 
+System.out.println("List of employees: "); 
+for (Employee obj : list) {     
+	System.out.println(obj); }
+```
+- Depois de tratar os aumentos de salário, o programa imprime a lista de funcionários usando um loop `for-each` para iterar sobre cada `Employee` na lista e exibir seus detalhes.
+
+### Fechamento do `Scanner`
+
+```java
+sc.close();
+```
+- O `Scanner` é fechado, liberando os recursos associados à leitura de entrada.
+
+### Método auxiliar `hasId()`
+```java
+public static boolean hasId(List<Employee> list, int id) {     
+	Employee emp = list.stream()
+	.filter(x -> x.getId() == id)
+	.findFirst().orElse(null);     
+	return emp != null; }
+```
+- O método `hasId()` verifica se um determinado ID já existe na lista de funcionários. Ele faz isso filtrando a lista com base no ID e retorna `true` se encontrar um funcionário com aquele ID, ou `false` caso contrário.
+

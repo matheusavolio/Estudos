@@ -27,8 +27,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "8d8b17cf8d78d9ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/POO - Parte 1/memória, arrays e listas/Listas.md",
+                "file": "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/POO - Parte 1/memória, arrays e listas/Listas.md"
+                "file": "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md"
               }
             }
           },
@@ -130,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -150,13 +164,17 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "929932f9921ab782",
+  "active": "02ec1759d8be77b6",
   "lastOpenFiles": [
+    "PDFs e imgs/Matriz2.jpg",
+    "PDFs e imgs/Matriz.jpg",
+    "Java/POO - Parte 1/memória, arrays e listas/Listas.md",
+    "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md",
+    "Java/POO - Parte 1/Materiais de apoio.md",
+    "Java/Resumos/POO/Listas.md",
     "Java/POO - Parte 1/memória, arrays e listas/Vetores.md",
     "PDFs e imgs/MyList.jpg",
-    "Listas.md",
     "Java/POO - Parte 1/memória, arrays e listas/for each.md",
-    "Java/POO - Parte 1/memória, arrays e listas/Listas.md",
     "for each.md",
     "Java/POO - Parte 1/memória, arrays e listas/Tipos referência vs tipo valor, garbage collector e escopo local.md",
     "Java/POO - Parte 1/memória, arrays e listas/Garbage collector e escopo local.md",
@@ -175,7 +193,6 @@
     "PDFs e imgs/unboxing.jpg",
     "PDFs e imgs/boxing.jpg",
     "PDFs e imgs/05-exercicios-de-fixacao-vetores.pdf",
-    "Java/POO - Parte 1/Materiais de apoio.md",
     "Git e GitHub/Mapa Mental de Como Utilizar Git e GitHub.md",
     "Git e GitHub/Git configurações iniciais.md",
     "Git e GitHub/O que é GIT.md",
@@ -185,11 +202,9 @@
     "PDFs e imgs/primitvos_caixas 1.jpg",
     "PDFs e imgs/myVect.jpg",
     "PDFs e imgs/memória.jpg",
-    "PDFs e imgs/memória 1.jpg",
     "Java/POO - Parte 1/memória, arrays e listas",
     "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Exercício de fixação.md",
     "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Construtores, This, Sobrecarga.md",
-    "Java/POO - Parte 1/Introdução ao POO/Segundo ExPoo ,Object, toString.md",
     "Java/POO - Parte 1/Memória, array e listas",
     "PDFs e imgs/05-memoria-arrays-e-listas.pdf",
     "Python/Mapas Mentais Python",
