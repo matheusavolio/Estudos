@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d584ba334669d1e5",
+            "id": "929932f9921ab782",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,15 +21,14 @@
             }
           },
           {
-            "id": "d374d676eb8dee08",
+            "id": "6325d8e6974217c9",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/POO - Parte 1/memória, arrays e listas/Vetores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/POO - Parte 1/memória, arrays e listas/Vetores.md"
+              }
             }
           },
           {
@@ -128,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -148,16 +150,24 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "d374d676eb8dee08",
+  "active": "929932f9921ab782",
   "lastOpenFiles": [
+    "for each.md",
+    "Java/POO - Parte 1/memória, arrays e listas/Tipos referência vs tipo valor, garbage collector e escopo local.md",
+    "Java/POO - Parte 1/memória, arrays e listas/Listas.md",
+    "Java/POO - Parte 1/memória, arrays e listas/Garbage collector e escopo local.md",
+    "Java/POO - Parte 1/memória, arrays e listas/for each.md",
     "Java/POO - Parte 1/memória, arrays e listas/Boxing, unboxing, wrapper e for each.md",
+    "Listas.md",
+    "Python/Listas.md",
+    "Pasted image 20240920012807.png",
+    "PDFs e imgs/MyList.jpg",
+    "Java/POO - Parte 1/Introdução ao POO/Exercícios de fixação.md",
+    "Java/POO - Parte 1/Introdução ao POO/Classes, objetos, atributos e instanciação.md",
     "Java/POO - Parte 1/memória, arrays e listas/Vetores.md",
     "Vetores.md",
-    "Java/POO - Parte 1/memória, arrays e listas/Tipos referência vs tipo valor, garbage collector e escopo local.md",
-    "Java/POO - Parte 1/memória, arrays e listas/Garbage collector e escopo local.md",
     "Java/Resumos/POO/Garbage collector e escopo local.md",
     "Java/Resumos/POO/Construtores e encapsulamento.md",
-    "for each.md",
     "Java/Resumos/POO/Tipos referências vs tipo valor.md",
     "Java/Resumos/POO/public, static, void, membros estáticos e final.md",
     "Java/Resumos/POO/Classe, instanciação e this.md",
@@ -176,21 +186,13 @@
     "PDFs e imgs/myVect.jpg",
     "PDFs e imgs/memória.jpg",
     "PDFs e imgs/memória 1.jpg",
-    "PDFs e imgs/garbageCollector.jpg",
-    "PDFs e imgs/desalocçãoEscopo2.jpg",
     "Java/POO - Parte 1/memória, arrays e listas",
     "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Exercício de fixação.md",
     "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Construtores, This, Sobrecarga.md",
     "Java/POO - Parte 1/Introdução ao POO/Segundo ExPoo ,Object, toString.md",
     "Java/POO - Parte 1/Introdução ao POO/Reaproveitamento, Delegação e Membros estáticos.md",
-    "Java/POO - Parte 1/Introdução ao POO/Exercícios de fixação.md",
-    "Java/POO - Parte 1/Introdução ao POO/Classes, objetos, atributos e instanciação.md",
-    "Java/Lógica_Algoritmos_Java/Estrutura Sequencial/ExpArit, Variáveis, Tipos primitivos, Input, Output e Casting.md",
-    "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Encapsulamento, Modificadores de acessos.md",
     "Java/POO - Parte 1/Memória, array e listas",
     "PDFs e imgs/05-memoria-arrays-e-listas.pdf",
-    "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Encapsulamento.md",
-    "Python/Mapas Mentais Python/Mapa mental Tuplas.md",
     "Python/Mapas Mentais Python",
     "PDFs e imgs/04-construtores-this-sobrecarga-encapsulamento 1.pdf",
     "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento",
