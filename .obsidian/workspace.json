@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/POO - Parte 1/memória, arrays e listas/Listas.md",
+                "file": "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -27,9 +27,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "a56f9d41c96d70b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roteiro de estudos/Roteiro.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Roteiro de estudos/Roteiro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Roteiro de estudos/Roteiro.md"
+              }
             }
           },
           {
@@ -148,15 +164,15 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "6325d8e6974217c9",
+  "active": "a56f9d41c96d70b5",
   "lastOpenFiles": [
+    "Java/POO - Parte 1/Materiais de apoio.md",
+    "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md",
+    "Java/POO - Parte 1/memória, arrays e listas/Listas.md",
     "PDFs e imgs/Matriz2.jpg",
     "PDFs e imgs/Matriz.jpg",
     "Java/Resumos/POO/Listas.md",
-    "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md",
     "Listas.md",
-    "Java/POO - Parte 1/memória, arrays e listas/Listas.md",
-    "Java/POO - Parte 1/Materiais de apoio.md",
     "Java/POO - Parte 1/memória, arrays e listas/Vetores.md",
     "PDFs e imgs/MyList.jpg",
     "Java/POO - Parte 1/memória, arrays e listas/for each.md",
