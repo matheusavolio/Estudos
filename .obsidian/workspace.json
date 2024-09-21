@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roteiro de estudos/Roteiro.md",
+                "file": "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roteiro de estudos/Roteiro.md",
+                "file": "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roteiro de estudos/Roteiro.md"
+                "file": "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md"
               }
             }
           },
@@ -166,6 +166,8 @@
   },
   "active": "a56f9d41c96d70b5",
   "lastOpenFiles": [
+    "Java/POO - Parte 1/memória, arrays e listas/Vetores.md",
+    "Roteiro de estudos/Roteiro.md",
     "Java/POO - Parte 1/Materiais de apoio.md",
     "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md",
     "Java/POO - Parte 1/memória, arrays e listas/Listas.md",
@@ -173,7 +175,6 @@
     "PDFs e imgs/Matriz.jpg",
     "Java/Resumos/POO/Listas.md",
     "Listas.md",
-    "Java/POO - Parte 1/memória, arrays e listas/Vetores.md",
     "PDFs e imgs/MyList.jpg",
     "Java/POO - Parte 1/memória, arrays e listas/for each.md",
     "for each.md",
