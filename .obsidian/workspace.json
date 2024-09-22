@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "929932f9921ab782",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6325d8e6974217c9",
             "type": "leaf",
             "state": {
@@ -34,15 +21,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md",
-                "mode": "preview",
+                "file": "Java/POO - Parte 1/Materiais de apoio.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md",
+                "file": "Java/POO - Parte 1/Materiais de apoio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md"
+                "file": "Java/POO - Parte 1/Materiais de apoio.md"
               }
             }
           },
@@ -166,10 +153,16 @@
   },
   "active": "a56f9d41c96d70b5",
   "lastOpenFiles": [
+    "Java/POO - Parte 1/data-hora/Introdução.md",
+    "Java/POO - Parte 1/Materiais de apoio.md",
+    "Anotações_cursos_2/Java-Dio/Terminal e Argumentos.md",
+    "PDFs e imgs/data-hora.jpg",
+    "PDFs e imgs/date-calendar.pdf",
+    "PDFs e imgs/trabalhando-com-data-hora.pdf",
+    "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md",
+    "Java/POO - Parte 1/data-hora",
     "Java/POO - Parte 1/memória, arrays e listas/Vetores.md",
     "Roteiro de estudos/Roteiro.md",
-    "Java/POO - Parte 1/Materiais de apoio.md",
-    "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md",
     "Java/POO - Parte 1/memória, arrays e listas/Listas.md",
     "PDFs e imgs/Matriz2.jpg",
     "PDFs e imgs/Matriz.jpg",
@@ -198,19 +191,13 @@
     "Git e GitHub/Mapa Mental de Como Utilizar Git e GitHub.md",
     "Git e GitHub/Git configurações iniciais.md",
     "Git e GitHub/O que é GIT.md",
-    "Git e GitHub.md",
     "Git e GitHub.pdf",
     "PDFs e imgs/primitvos_caixas.jpg",
     "PDFs e imgs/primitvos_caixas 1.jpg",
-    "PDFs e imgs/myVect.jpg",
     "Java/POO - Parte 1/memória, arrays e listas",
-    "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Exercício de fixação.md",
     "Java/POO - Parte 1/Memória, array e listas",
     "PDFs e imgs/05-memoria-arrays-e-listas.pdf",
     "Python/Mapas Mentais Python",
-    "PDFs e imgs/04-construtores-this-sobrecarga-encapsulamento 1.pdf",
-    "Java/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento",
-    "Mapas Mentais Python",
-    "PDFs e imgs/04-construtores-this-sobrecarga-encapsulamento.pdf"
+    "PDFs e imgs/04-construtores-this-sobrecarga-encapsulamento 1.pdf"
   ]
 }
