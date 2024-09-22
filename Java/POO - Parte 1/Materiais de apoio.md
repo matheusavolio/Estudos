@@ -11,3 +11,10 @@
 # Memórias, Listas e arrays
 
 ![[05-memoria-arrays-e-listas.pdf]]![[05-exercicios-de-fixacao-vetores.pdf]]
+
+# Data-hora
+![[trabalhando-com-data-hora.pdf]]
+
+
+# date-calendar
+![[date-calendar.pdf]]
