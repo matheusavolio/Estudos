@@ -8,15 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6325d8e6974217c9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a56f9d41c96d70b5",
+            "id": "ac044a9f09ba8a8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,9 +19,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6325d8e6974217c9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,14 +150,17 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "a56f9d41c96d70b5",
+  "active": "ac044a9f09ba8a8a",
   "lastOpenFiles": [
+    "Java/POO - Parte 1/data-hora/Introdução.md",
+    "Java/Resumos/POO/data-hora.md",
+    "Java/POO - Parte 1/data-hora/timezone, ISO8601 instanciando e convertendo.md",
+    "Java/POO - Parte 1/data-hora/Operações com data-hora.md",
+    "Java/POO - Parte 1/Materiais de apoio.md",
     "PDFs e imgs/trabalhando-com-data-hora.pdf",
     "PDFs e imgs/date-calendar.pdf",
     "PDFs e imgs/data-hora.jpg",
-    "Java/POO - Parte 1/data-hora/Introdução.md",
     "Java/POO - Parte 1/data-hora",
-    "Java/POO - Parte 1/Materiais de apoio.md",
     "Anotações_cursos_2/Java-Dio/Terminal e Argumentos.md",
     "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md",
     "Java/POO - Parte 1/memória, arrays e listas/Vetores.md",
@@ -188,8 +190,6 @@
     "PDFs e imgs/unboxing.jpg",
     "PDFs e imgs/boxing.jpg",
     "PDFs e imgs/05-exercicios-de-fixacao-vetores.pdf",
-    "Git e GitHub/Mapa Mental de Como Utilizar Git e GitHub.md",
-    "Git e GitHub/Git configurações iniciais.md",
     "Git e GitHub.pdf",
     "PDFs e imgs/primitvos_caixas.jpg",
     "PDFs e imgs/primitvos_caixas 1.jpg",
