@@ -8,45 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "344cebc2aa431e83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/POO - Parte 1/data-hora/Operações com data-hora.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c634548a8953d9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Resumos/POO/data-hora.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac044a9f09ba8a8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/POO - Parte 1/Materiais de apoio.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6325d8e6974217c9",
             "type": "leaf",
             "state": {
@@ -54,8 +15,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,10 +136,17 @@
   },
   "active": "6325d8e6974217c9",
   "lastOpenFiles": [
+    "Livros/As 48 leis do poder/Lei 4.md",
+    "Livros/As 48 leis do poder/Lei 3.md",
+    "Livros/As 48 leis do poder/Lei 2.md",
+    "Livros/As 48 leis do poder/Lei 1.md",
+    "Java/POO - Parte 1/Materiais de apoio.md",
+    "Livros/As 48 leis do poder",
+    "Livros",
     "Java/Resumos/POO/data-hora.md",
     "Java/POO - Parte 1/data-hora/timezone, ISO8601 instanciando e convertendo.md",
     "Java/POO - Parte 1/data-hora/Operações com data-hora.md",
-    "Java/POO - Parte 1/Materiais de apoio.md",
+    "Java/POO - Parte 1/data-hora/Introdução.md",
     "PDFs e imgs/trabalhando-com-data-hora.pdf",
     "PDFs e imgs/date-calendar.pdf",
     "PDFs e imgs/data-hora.jpg",
@@ -205,22 +172,15 @@
     "Java/POO - Parte 1/Introdução ao POO/Classes, objetos, atributos e instanciação.md",
     "Vetores.md",
     "Java/Resumos/POO/Garbage collector e escopo local.md",
-    "Java/Resumos/POO/Construtores e encapsulamento.md",
-    "Java/Resumos/POO/Tipos referências vs tipo valor.md",
-    "Java/Resumos/POO/public, static, void, membros estáticos e final.md",
-    "Java/Resumos/POO/Classe, instanciação e this.md",
     "PDFs e imgs/Wrapper.jpg",
     "PDFs e imgs/unboxing.jpg",
     "PDFs e imgs/boxing.jpg",
     "PDFs e imgs/05-exercicios-de-fixacao-vetores.pdf",
-    "Git e GitHub/Mapa Mental de Como Utilizar Git e GitHub.md",
     "Git e GitHub.pdf",
     "PDFs e imgs/primitvos_caixas.jpg",
     "PDFs e imgs/primitvos_caixas 1.jpg",
     "Java/POO - Parte 1/memória, arrays e listas",
     "Java/POO - Parte 1/Memória, array e listas",
-    "PDFs e imgs/05-memoria-arrays-e-listas.pdf",
-    "Python/Mapas Mentais Python",
-    "PDFs e imgs/04-construtores-this-sobrecarga-encapsulamento 1.pdf"
+    "PDFs e imgs/05-memoria-arrays-e-listas.pdf"
   ]
 }
