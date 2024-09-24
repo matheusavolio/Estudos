@@ -141,3 +141,70 @@ LocalDate d10 = LocalDate.of(2024, 7, 20);
 // intancia dia, mês, ano e horário isoladamente  
 LocalDateTime d11 = LocalDateTime.of(2024, 7, 20, 1, 30);
 ```
+
+---
+---
+
+# Aula112 - Convertendo data-hora para texto 
+
+```java
+LocalDate d01 = LocalDate.parse("2024-09-22");  
+LocalDateTime d02 = LocalDateTime.parse("2024-09-22T13:25");  
+Instant d03 = Instant.parse("2024-09-22T13:25:09Z");  
+  
+// formatando  
+DateTimeFormatter fmt1 = DateTimeFormatter.ofPattern("dd/MM/yyyy");  
+DateTimeFormatter fmt2 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm"); // fuso-horario do sistema local  
+DateTimeFormatter fmt3 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm").withZone(ZoneId.systemDefault());  
+DateTimeFormatter fmt4 = DateTimeFormatter.ISO_DATE_TIME;  
+DateTimeFormatter fmt5 = DateTimeFormatter.ISO_INSTANT;  
+  
+  
+// duas formas para imprimir a data personalizada  
+System.out.println("D01 = " + d01.format(fmt1));  
+System.out.println("D01 = " + fmt1.format((d01)));  
+System.out.println("D01 = " + d01.format(DateTimeFormatter.ofPattern("dd/MM/yyyy")));  
+  
+System.out.println("D02 = " + d02.format(fmt1));  
+System.out.println("D02 = " + d02.format(fmt2));  
+System.out.println("D02 = "  + d02.format(fmt4));  
+  
+// para imprimir de forma customizada uma data-hora global  
+// eu tenho que considerar o fuso-horario  
+System.out.println("D03 = " + fmt3.format(d03));  
+System.out.println("D03 = "  + fmt5.format(d03));
+```
+
+---
+---
+
+#  Aula113 - Convertendo data-hora local para global
+
+```java
+LocalDate d01 = LocalDate.parse("2024-09-22");  
+LocalDateTime d02 = LocalDateTime.parse("2024-09-22T13:25");  
+Instant d03 = Instant.parse("2024-09-22T13:25:09Z");  
+  
+LocalDate r1 = LocalDate.ofInstant(d03, ZoneId.systemDefault());  
+System.out.println("r1 = "+r1);  
+  
+LocalDateTime r2 = LocalDateTime.ofInstant(d03, ZoneId.of("Europe/London"));  
+LocalDateTime r3 = LocalDateTime.ofInstant(d03, ZoneId.of("America/Sao_Paulo"));  
+System.out.println("r2 = "+r2); // londres  
+System.out.println("r3 = "+r3); // sp  
+  
+// retornam dia, mês e ano respectivamente  
+System.out.println("d01 dia = " + d01.getDayOfMonth());  
+System.out.println("d01 mês = " + d01.getMonthValue());  
+System.out.println("d01 ano = " + d01.getYear());  
+  
+// retornam hora, minuto e segundos  
+System.out.println("do2 hora = "+ d02.getHour());  
+System.out.println("do2 minuto = "+ d02.getMinute());  
+System.out.println("do2 segundos = "+ d02.getSecond());  
+  
+// Retorna uma lista com os nomes dos fuso-horários customizados  
+for (String s: ZoneId.getAvailableZoneIds()){  
+    System.out.println(s);  
+}
+```

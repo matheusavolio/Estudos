@@ -16,5 +16,5 @@
 ![[trabalhando-com-data-hora.pdf]]
 
 
-# date-calendar
+# date-calendar[LEGADO]
 ![[date-calendar.pdf]]
