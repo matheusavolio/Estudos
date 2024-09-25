@@ -13,8 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/POO - Parte 1/Materiais de apoio.md",
+                "file": "Java/POO - Parte 1/Enumerações e composições/Enumerações.md",
                 "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce7a6768557661c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/POO - Parte 1/Enumerações e composições/Design.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/POO - Parte 1/Enumerações e composições/Enumerações.md",
+                "file": "Java/POO - Parte 1/Enumerações e composições/Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/POO - Parte 1/Enumerações e composições/Enumerações.md"
+                "file": "Java/POO - Parte 1/Enumerações e composições/Design.md"
               }
             }
           },
@@ -156,10 +169,14 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "4f73bc0dd03dfc8c",
+  "active": "ce7a6768557661c2",
   "lastOpenFiles": [
-    "Java/POO - Parte 1/Materiais de apoio.md",
+    "PDFs e imgs/services.jpg",
+    "PDFs e imgs/entities.jpg",
+    "PDFs e imgs/designEnum.jpg",
     "Java/POO - Parte 1/Enumerações e composições/Enumerações.md",
+    "Java/POO - Parte 1/Enumerações e composições/Design.md",
+    "Java/POO - Parte 1/Materiais de apoio.md",
     "PDFs e imgs/Diagram 4.svg",
     "PDFs e imgs/Diagram 4.svg.xml",
     "PDFs e imgs/enum.jpg",
@@ -198,10 +215,7 @@
     "Java/POO - Parte 1/memória, arrays e listas/Boxing, unboxing, wrapper e for each.md",
     "Python/Listas.md",
     "Pasted image 20240920012807.png",
-    "Java/POO - Parte 1/Introdução ao POO/Exercícios de fixação.md",
     "PDFs e imgs/Wrapper.jpg",
-    "PDFs e imgs/unboxing.jpg",
-    "PDFs e imgs/boxing.jpg",
     "PDFs e imgs/05-exercicios-de-fixacao-vetores.pdf"
   ]
 }
