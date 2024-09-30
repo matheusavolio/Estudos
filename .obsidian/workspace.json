@@ -8,46 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0167c8f4b45deb52",
+            "id": "c7647adfe4d5446c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/POO - Parte 1/Enumerações e composições/Enumerações.md",
+                "file": "Java/POO - Parte 1/Enumerações e composições/Enumerações e composições.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cddef6125cc94b4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Resumos/POO/Composição.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "606df1797edaa4a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/POO - Parte 1/Materiais de apoio.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "ce7a6768557661c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/POO - Parte 1/Enumerações e composições/Design.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f73bc0dd03dfc8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/POO - Parte 1/Enumerações e composições/Enumerações.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/POO - Parte 1/Enumerações e composições/Design.md",
+                "file": "Java/POO - Parte 1/Enumerações e composições/Enumerações e composições.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/POO - Parte 1/Enumerações e composições/Design.md"
+                "file": "Java/POO - Parte 1/Enumerações e composições/Enumerações e composições.md"
               }
             }
           },
@@ -169,53 +168,52 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "ce7a6768557661c2",
+  "active": "c7647adfe4d5446c",
   "lastOpenFiles": [
+    "Java/POO - Parte 1/Materiais de apoio.md",
+    "Java/POO - Parte 1/Enumerações e composições/Enumerações e composições.md",
+    "PDFs e imgs/worker.jpg",
+    "Java/Resumos/POO/Composição.md",
     "PDFs e imgs/services.jpg",
     "PDFs e imgs/entities.jpg",
-    "PDFs e imgs/designEnum.jpg",
-    "Java/POO - Parte 1/Enumerações e composições/Enumerações.md",
+    "PDFs e imgs/06-estruturas-repetitivas.pdf",
+    "PDFs e imgs/07-enumeracoes-composicao.pdf",
+    "PDFs e imgs/07-outros-topicos-basicos.pdf",
+    "PDFs e imgs/boxing.jpg",
+    "PDFs e imgs/Capturar.jpg",
+    "PDFs e imgs/Capturar2.jpg",
+    "PDFs e imgs/Classes_referencias.jpg",
+    "PDFs e imgs/Classes_referencias 1.jpg",
+    "PDFs e imgs/Contribuindo em um Projeto Open Source no GitHub.pdf",
+    "PDFs e imgs/Curso-Java-COMPLETO.pdf",
+    "PDFs e imgs/Curso-Java-COMPLETO 1.pdf",
+    "PDFs e imgs/data-hora.jpg",
+    "PDFs e imgs/date-calendar.pdf",
+    "PDFs e imgs/desalocaçãoEscopo.jpg",
+    "PDFs e imgs/git-guia-basico.pdf",
+    "PDFs e imgs/introducao-linguagem-java 1.pdf",
     "Java/POO - Parte 1/Enumerações e composições/Design.md",
-    "Java/POO - Parte 1/Materiais de apoio.md",
-    "PDFs e imgs/Diagram 4.svg",
     "PDFs e imgs/Diagram 4.svg.xml",
-    "PDFs e imgs/enum.jpg",
     "Roteiro de estudos/Roteiro.md",
     "Anotações_cursos_2/Java-Dio/Métodos.md",
-    "PDFs e imgs/Curso-Java-COMPLETO 1.pdf",
-    "PDFs e imgs/07-enumeracoes-composicao.pdf",
-    "Java/POO - Parte 1/Enumerações e composições",
     "Livros/As 48 leis do poder/Lei 4.md",
     "Livros/As 48 leis do poder/Lei 3.md",
     "Livros/As 48 leis do poder/Lei 2.md",
     "Livros/As 48 leis do poder/Lei 1.md",
-    "Livros/As 48 leis do poder",
-    "Livros",
     "Java/Resumos/POO/data-hora.md",
     "Java/POO - Parte 1/data-hora/timezone, ISO8601 instanciando e convertendo.md",
     "Java/POO - Parte 1/data-hora/Operações com data-hora.md",
     "Java/POO - Parte 1/data-hora/Introdução.md",
-    "PDFs e imgs/trabalhando-com-data-hora.pdf",
-    "PDFs e imgs/date-calendar.pdf",
-    "PDFs e imgs/data-hora.jpg",
-    "Java/POO - Parte 1/data-hora",
     "Anotações_cursos_2/Java-Dio/Terminal e Argumentos.md",
     "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md",
     "Java/POO - Parte 1/memória, arrays e listas/Vetores.md",
     "Java/POO - Parte 1/memória, arrays e listas/Listas.md",
-    "PDFs e imgs/Matriz2.jpg",
-    "PDFs e imgs/Matriz.jpg",
     "Java/Resumos/POO/Listas.md",
     "Listas.md",
-    "PDFs e imgs/MyList.jpg",
     "Java/POO - Parte 1/memória, arrays e listas/for each.md",
     "for each.md",
     "Java/POO - Parte 1/memória, arrays e listas/Tipos referência vs tipo valor, garbage collector e escopo local.md",
     "Java/POO - Parte 1/memória, arrays e listas/Garbage collector e escopo local.md",
-    "Java/POO - Parte 1/memória, arrays e listas/Boxing, unboxing, wrapper e for each.md",
-    "Python/Listas.md",
-    "Pasted image 20240920012807.png",
-    "PDFs e imgs/Wrapper.jpg",
-    "PDFs e imgs/05-exercicios-de-fixacao-vetores.pdf"
+    "Java/POO - Parte 1/memória, arrays e listas/Boxing, unboxing, wrapper e for each.md"
   ]
 }
