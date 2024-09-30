@@ -144,11 +144,11 @@
   },
   "active": "606df1797edaa4a1",
   "lastOpenFiles": [
+    "PDFs e imgs/worker.jpg",
     "Java/Resumos/POO/Composição.md",
     "Java/POO - Parte 1/Enumerações e composições/Enumerações e composições.md",
     "Java/POO - Parte 1/Enumerações e composições/Enumerações.md",
     "Java/POO - Parte 1/Materiais de apoio.md",
-    "PDFs e imgs/worker.jpg",
     "PDFs e imgs/services.jpg",
     "PDFs e imgs/entities.jpg",
     "PDFs e imgs/06-estruturas-repetitivas.pdf",
@@ -188,7 +188,6 @@
     "Java/POO - Parte 1/memória, arrays e listas/for each.md",
     "for each.md",
     "Java/POO - Parte 1/memória, arrays e listas/Tipos referência vs tipo valor, garbage collector e escopo local.md",
-    "Java/POO - Parte 1/memória, arrays e listas/Garbage collector e escopo local.md",
-    "Java/POO - Parte 1/memória, arrays e listas/Boxing, unboxing, wrapper e for each.md"
+    "Java/POO - Parte 1/memória, arrays e listas/Garbage collector e escopo local.md"
   ]
 }
