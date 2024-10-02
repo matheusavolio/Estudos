@@ -8,13 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "606df1797edaa4a1",
+            "id": "75ac5f26961e2526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/POO - Parte 1/Enumerações e composições/Enumerações e composições.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4381e7c10d4bff13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Java/POO - Parte 1/Materiais de apoio.md",
                 "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "606df1797edaa4a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/POO - Parte 1/data-hora/timezone, ISO8601 instanciando e convertendo.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/POO - Parte 1/Materiais de apoio.md",
+                "file": "Java/POO - Parte 1/Enumerações e composições/Enumerações e composições.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/POO - Parte 1/Materiais de apoio.md"
+                "file": "Java/POO - Parte 1/Enumerações e composições/Enumerações e composições.md"
               }
             }
           },
@@ -142,13 +168,16 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "606df1797edaa4a1",
+  "active": "75ac5f26961e2526",
   "lastOpenFiles": [
+    "Java/POO - Parte 1/data-hora/timezone, ISO8601 instanciando e convertendo.md",
+    "Java/POO - Parte 1/Enumerações e composições/Enumerações e composições.md",
+    "Java/POO - Parte 1/Materiais de apoio.md",
+    "Java/POO - Parte 1/data-hora/Operações com data-hora.md",
+    "PDFs e imgs/StringBuilder.jpg",
     "PDFs e imgs/worker.jpg",
     "Java/Resumos/POO/Composição.md",
-    "Java/POO - Parte 1/Enumerações e composições/Enumerações e composições.md",
     "Java/POO - Parte 1/Enumerações e composições/Enumerações.md",
-    "Java/POO - Parte 1/Materiais de apoio.md",
     "PDFs e imgs/services.jpg",
     "PDFs e imgs/entities.jpg",
     "PDFs e imgs/06-estruturas-repetitivas.pdf",
@@ -164,7 +193,6 @@
     "PDFs e imgs/Curso-Java-COMPLETO 1.pdf",
     "PDFs e imgs/data-hora.jpg",
     "PDFs e imgs/date-calendar.pdf",
-    "PDFs e imgs/desalocaçãoEscopo.jpg",
     "PDFs e imgs/git-guia-basico.pdf",
     "PDFs e imgs/introducao-linguagem-java 1.pdf",
     "Java/POO - Parte 1/Enumerações e composições/Design.md",
@@ -176,8 +204,6 @@
     "Livros/As 48 leis do poder/Lei 2.md",
     "Livros/As 48 leis do poder/Lei 1.md",
     "Java/Resumos/POO/data-hora.md",
-    "Java/POO - Parte 1/data-hora/timezone, ISO8601 instanciando e convertendo.md",
-    "Java/POO - Parte 1/data-hora/Operações com data-hora.md",
     "Java/POO - Parte 1/data-hora/Introdução.md",
     "Anotações_cursos_2/Java-Dio/Terminal e Argumentos.md",
     "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md",

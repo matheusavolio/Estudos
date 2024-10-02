@@ -941,3 +941,252 @@ Esse bloco de código é responsável por coletar o mês e o ano para o qual a r
 2. **Manipulação de Strings**: O uso de `substring` para extrair partes específicas da string é uma maneira eficiente de separar dados em formato conhecido.
 3. **Formatação Monetária**: O uso de `String.format("%.2f", ...)` garante que a renda seja exibida de forma legível e apropriada, destacando a importância da apresentação em aplicações financeiras.
 4. **Métodos de Acesso**: O uso de métodos como `getName()` e `getDepartment()` demonstra a prática de encapsulamento, que é um princípio fundamental da programação orientada a objetos, promovendo a organização e a segurança dos dados. 
+
+---
+---
+
+### Aula125 - Exercício resolvido 2 (demo #StringBuilder)
+
+![[StringBuilder.jpg]]
+
+Quando temos uma composição do tipo "tem-vários" nós não deixamos o método #setters,  porém nós fazemos o método add e remove:
+```java
+private List<Comment> comments = new ArrayList<>(); // "tem-vários"
+public void addComment (Comment comment){  
+    comments.add(comment);  
+}  
+public void removeComment(Comment comment){  
+    comments.remove(comment);  
+}
+```
+
+---
+---
+
+## *Análise de código de 2*
+
+### Classe `Comment`
+```java
+package entities;
+
+public class Comment {
+    private String text;
+
+    public Comment() {
+    }
+
+    public Comment(String text) {
+        this.text = text;
+    }
+
+    public String getText() {
+        return text;
+    }
+
+    public void setText(String text) {
+        this.text = text;
+    }
+}
+```
+#### Análise:
+
+1. **Pacote:** `package entities;` — Define que esta classe faz parte do pacote `entities`, agrupando-a com outras classes relacionadas.
+    
+2. **Atributo `text`:**
+    
+    - `private String text;` — O atributo é privado para proteger o acesso direto, seguindo o princípio de encapsulamento.
+3. **Construtores:**
+    
+    - `public Comment() {}` — Construtor padrão sem parâmetros. Isso é útil para instanciar um objeto sem definir o texto imediatamente, podendo ser preenchido depois.
+    - `public Comment(String text) { this.text = text; }` — Construtor com um parâmetro que inicializa o texto do comentário.
+4. **Métodos Getter e Setter:**
+    
+    - `public String getText() { return text; }` — Permite acessar o texto do comentário.
+    - `public void setText(String text) { this.text = text; }` — Permite modificar o texto do comentário após a criação do objeto.
+
+### Classe `Post`
+```java
+package entities;  
+import java.time.LocalDateTime;  
+import java.time.format.DateTimeFormatter;  
+import java.util.ArrayList;  
+import java.util.List;  
+  
+public class Post {  
+    private LocalDateTime moment;  
+    private String title;  
+    private String content;  
+    private Integer likes;  
+  
+    private List<Comment> comments = new ArrayList<>();  
+  
+    public Post() {  
+    }  
+    public Post(LocalDateTime moment, String title, String content, Integer likes) {  
+        this.moment = moment;  
+        this.title = title;  
+        this.content = content;  
+        this.likes = likes;  
+    }  
+  
+    public LocalDateTime getMoment() {  
+        return moment;  
+    }  
+  
+    public void setMoment(LocalDateTime moment) {  
+        this.moment = moment;  
+    }  
+  
+    public String getTitle() {  
+        return title;  
+    }  
+  
+    public void setTitle(String title) {  
+        this.title = title;  
+    }  
+  
+    public String getContent() {  
+        return content;  
+    }  
+  
+    public Integer getLikes() {  
+        return likes;  
+    }  
+  
+    public void setLikes(Integer likes) {  
+        this.likes = likes;  
+    }  
+  
+    public List<Comment> getComments() {  
+        return comments;  
+    }  
+  
+    public void setComments(List<Comment> comments) {  
+        this.comments = comments;  
+    }  
+  
+    public void addComment (Comment comment){  
+        comments.add(comment);  
+    }  
+  
+    public void removeComment(Comment comment){  
+        comments.remove(comment);  
+    }  
+    private static DateTimeFormatter fmt1 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss");  
+  
+    public String toString(){  
+        StringBuilder sb = new StringBuilder();  
+        sb.append(title + "\n");  
+        sb.append(likes);  
+        sb.append(" Likes - ");  
+        sb.append(moment.format(fmt1) + "\n");  
+        sb.append(content + "\n");  
+        sb.append("Comments: \n");  
+        for (Comment c : comments){  
+            sb.append(c.getText() + "\n");  
+        }  
+        return sb.toString();  
+    }  
+}
+
+```
+#### Análise:
+
+1. **Pacote e Imports:**
+    
+    - `package entities;` — Mantém a classe dentro do mesmo pacote.
+    - As importações de `LocalDateTime`, `DateTimeFormatter`, `ArrayList`, e `List` são necessárias para trabalhar com data/hora e listas.
+2. **Atributos:**
+    
+    - `private LocalDateTime moment;` — Armazena a data e hora da postagem.
+    - `private String title;` — O título da postagem.
+    - `private String content;` — O conteúdo da postagem.
+    - `private Integer likes;` — O número de curtidas da postagem.
+    - `private List<Comment> comments = new ArrayList<>();` — Inicializa uma lista vazia para armazenar comentários.
+3. **Construtores:**
+    
+    - `public Post() {}` — Construtor padrão que permite instanciar um objeto sem inicializar os atributos imediatamente.
+    - `public Post(LocalDateTime moment, String title, String content, Integer likes) { ... }` — Construtor que inicializa todos os atributos da postagem, permitindo que um objeto `Post` seja criado com todos os dados necessários.
+
+**Getters e Setters:** Métodos que permitem acessar e modificar os atributos da classe de maneira controlada. Isso garante que os dados internos da classe possam ser manipulados de forma segura.
+
+- **Métodos para Manipulação de Comentários:**
+    - `public void addComment(Comment comment) { comments.add(comment); }` — Adiciona um novo comentário à lista de comentários da postagem.
+    - `public void removeComment(Comment comment) { comments.remove(comment); }` — Remove um comentário da lista, se presente.
+
+- **Formatador de Data:** `private static DateTimeFormatter fmt1 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss");` — Define como a data e hora serão formatadas quando impressas.
+    
+- **Método `toString`:**
+    
+    - Utiliza um `StringBuilder` para montar uma string com o título, número de likes, data formatada e conteúdo, além de listar todos os comentários.
+    - O uso de `StringBuilder` é uma boa prática para otimizar a concatenação de strings, principalmente quando há várias adições.
+
+
+### Classe `Program`
+```java
+package application;  
+import entities.Comment;  
+import entities.Post;  
+import java.time.LocalDateTime;  
+import java.time.format.DateTimeFormatter;  
+  
+public class Program {  
+    public static void main(String[] args) {  
+        DateTimeFormatter fmt1 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss");  
+  
+        // first post  
+        LocalDateTime moment1 = LocalDateTime.parse("21/06/2018 13:06:44", fmt1);  
+        Comment c1 = new Comment("Have a nice trip!");  
+        Comment c2 = new Comment("Wow, that's awesome!");  
+  
+        Post p1 = new Post(  
+            moment1,  
+            "Traveling to New Zealand",  
+            "I'm going to visit this wonderful country!",  
+            12  
+        );  
+  
+        // add comments to first post  
+        p1.addComment(c1);  
+        p1.addComment(c2);  
+  
+        // Second post  
+        LocalDateTime moment2 = LocalDateTime.parse("28/07/2018 23:14:19", fmt1);  
+        Comment c3 = new Comment("Good night");  
+        Comment c4 = new Comment("May the force be with you");  
+  
+        Post p2 = new Post(  
+            moment2,  
+            "Good night guys!",  
+            "See you tomorrow",  
+            5  
+        );  
+  
+        // add comments to second post  
+        p2.addComment(c3);  
+        p2.addComment(c4);  
+  
+        System.out.println(p1);  
+        System.out.println(p2);  
+    }  
+}
+```
+#### Análise:
+
+1. **Pacote e Imports:**
+    
+    - Mantém a classe `Program` dentro do pacote `application`.
+    - Importa as classes necessárias para o funcionamento do programa.
+2. **Método `main`:**
+    
+    - `DateTimeFormatter fmt1 = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss");` — Cria um formatador para a data e hora, igual ao utilizado na classe `Post`.
+3. **Primeiro Post:**
+    
+    - `LocalDateTime moment1 = LocalDateTime.parse("21/06/2018 13:06:44", fmt1);` — Converte uma string em um objeto `LocalDateTime` usando o formatador.
+    - Cria dois comentários (`c1` e `c2`).
+    - Cria a postagem `p1` com a data, título, conteúdo e número de likes.
+
+4.  - **Segundo Post:** Segue o mesmo padrão do primeiro post, criando uma nova data, dois novos comentários e a postagem correspondente (`p2`).
+- **Adição de Comentários:** Adiciona os comentários à postagem `p2`.
+- **Impressão no Console:** `System.out.println(p1);` e `System.out.println(p2);` — Utiliza o método `toString` da classe `Post` para exibir os detalhes das postagens no console.
+
