@@ -144,6 +144,14 @@
   },
   "active": "39d6bf595d064494",
   "lastOpenFiles": [
+    "Java/POO - Parte 1/Herança e polimorfismo/Upcasting e downcasting.md",
+    "Java/POO - Parte 1/Herança e polimorfismo/Sobreposição, super, anotação @override.md",
+    "Java/POO - Parte 1/Herança e polimorfismo/Classes e método final.md",
+    "PDFs e imgs/MétodoFinal.jpg",
+    "PDFs e imgs/Método final.jpg",
+    "PDFs e imgs/Sobreposição.jpg",
+    "PDFs e imgs/upcasting e downcasting.jpg",
+    "Java/POO - Parte 1/Materiais de apoio.md",
     "PDFs e imgs/protected.jpg",
     "PDFs e imgs/herança3.jpg",
     "PDFs e imgs/herança2.jpg",
@@ -151,7 +159,6 @@
     "PDFs e imgs/08-heranca-e-polimorfismo.pdf",
     "Java/POO - Parte 1/Herança e polimorfismo/Herança.md",
     "Java/POO - Parte 1/Herança e polimorfismo",
-    "Java/POO - Parte 1/Materiais de apoio.md",
     "Roteiro de estudos/Roteiro.md",
     "Java/POO - Parte 1/Enumerações e composições/Enumerações e composições.md",
     "Java/Lógica_Algoritmos_Java/Estrutura de repetição/Estruturas de repetição.md",
@@ -161,13 +168,9 @@
     "PDFs e imgs/worker.jpg",
     "Java/Resumos/POO/Composição.md",
     "Java/POO - Parte 1/Enumerações e composições/Enumerações.md",
-    "PDFs e imgs/services.jpg",
-    "PDFs e imgs/entities.jpg",
     "PDFs e imgs/06-estruturas-repetitivas.pdf",
     "PDFs e imgs/07-enumeracoes-composicao.pdf",
     "PDFs e imgs/07-outros-topicos-basicos.pdf",
-    "PDFs e imgs/boxing.jpg",
-    "PDFs e imgs/Capturar.jpg",
     "PDFs e imgs/Contribuindo em um Projeto Open Source no GitHub.pdf",
     "PDFs e imgs/Curso-Java-COMPLETO.pdf",
     "PDFs e imgs/Curso-Java-COMPLETO 1.pdf",
@@ -185,9 +188,6 @@
     "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md",
     "Java/POO - Parte 1/memória, arrays e listas/Vetores.md",
     "Java/POO - Parte 1/memória, arrays e listas/Listas.md",
-    "Java/Resumos/POO/Listas.md",
-    "Listas.md",
-    "Java/POO - Parte 1/memória, arrays e listas/for each.md",
-    "for each.md"
+    "Java/Resumos/POO/Listas.md"
   ]
 }
