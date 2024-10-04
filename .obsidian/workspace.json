@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "75ac5f26961e2526",
+            "id": "170dd8a3eabd837e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/POO - Parte 1/Enumerações e composições/Enumerações e composições.md",
+                "file": "Java/POO - Parte 1/Herança e polimorfismo/Herança.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "4381e7c10d4bff13",
+            "id": "39d6bf595d064494",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Java/POO - Parte 1/Materiais de apoio.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "606df1797edaa4a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/POO - Parte 1/data-hora/timezone, ISO8601 instanciando e convertendo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/POO - Parte 1/Enumerações e composições/Enumerações e composições.md",
+                "file": "Java/POO - Parte 1/Herança e polimorfismo/Herança.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/POO - Parte 1/Enumerações e composições/Enumerações e composições.md"
+                "file": "Java/POO - Parte 1/Herança e polimorfismo/Herança.md"
               }
             }
           },
@@ -168,11 +155,20 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "75ac5f26961e2526",
+  "active": "02ec1759d8be77b6",
   "lastOpenFiles": [
-    "Java/POO - Parte 1/data-hora/timezone, ISO8601 instanciando e convertendo.md",
-    "Java/POO - Parte 1/Enumerações e composições/Enumerações e composições.md",
+    "PDFs e imgs/herança3.jpg",
+    "PDFs e imgs/protected.jpg",
+    "PDFs e imgs/herança2.jpg",
+    "PDFs e imgs/herança.jpg",
     "Java/POO - Parte 1/Materiais de apoio.md",
+    "PDFs e imgs/08-heranca-e-polimorfismo.pdf",
+    "Java/POO - Parte 1/Herança e polimorfismo/Herança.md",
+    "Roteiro de estudos/Roteiro.md",
+    "Java/POO - Parte 1/Herança e polimorfismo",
+    "Java/POO - Parte 1/Enumerações e composições/Enumerações e composições.md",
+    "Java/Lógica_Algoritmos_Java/Estrutura de repetição/Estruturas de repetição.md",
+    "Java/POO - Parte 1/data-hora/timezone, ISO8601 instanciando e convertendo.md",
     "Java/POO - Parte 1/data-hora/Operações com data-hora.md",
     "PDFs e imgs/StringBuilder.jpg",
     "PDFs e imgs/worker.jpg",
@@ -186,18 +182,12 @@
     "PDFs e imgs/boxing.jpg",
     "PDFs e imgs/Capturar.jpg",
     "PDFs e imgs/Capturar2.jpg",
-    "PDFs e imgs/Classes_referencias.jpg",
-    "PDFs e imgs/Classes_referencias 1.jpg",
     "PDFs e imgs/Contribuindo em um Projeto Open Source no GitHub.pdf",
     "PDFs e imgs/Curso-Java-COMPLETO.pdf",
     "PDFs e imgs/Curso-Java-COMPLETO 1.pdf",
-    "PDFs e imgs/data-hora.jpg",
     "PDFs e imgs/date-calendar.pdf",
     "PDFs e imgs/git-guia-basico.pdf",
-    "PDFs e imgs/introducao-linguagem-java 1.pdf",
     "Java/POO - Parte 1/Enumerações e composições/Design.md",
-    "PDFs e imgs/Diagram 4.svg.xml",
-    "Roteiro de estudos/Roteiro.md",
     "Anotações_cursos_2/Java-Dio/Métodos.md",
     "Livros/As 48 leis do poder/Lei 4.md",
     "Livros/As 48 leis do poder/Lei 3.md",
@@ -212,8 +202,6 @@
     "Java/Resumos/POO/Listas.md",
     "Listas.md",
     "Java/POO - Parte 1/memória, arrays e listas/for each.md",
-    "for each.md",
-    "Java/POO - Parte 1/memória, arrays e listas/Tipos referência vs tipo valor, garbage collector e escopo local.md",
-    "Java/POO - Parte 1/memória, arrays e listas/Garbage collector e escopo local.md"
+    "for each.md"
   ]
 }
