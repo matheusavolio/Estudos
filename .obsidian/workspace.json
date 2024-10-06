@@ -152,18 +152,18 @@
   },
   "active": "39d6bf595d064494",
   "lastOpenFiles": [
-    "Java/POO - Parte 1/Herança e polimorfismo/Polimorfismo pt1.md",
+    "PDFs e imgs/polimorfismo1.jpg",
     "Java/Resumos/POO/Upcasting e Downcasting.md",
     "Java/Resumos/POO/Sobreposição e super.md",
+    "Java/Resumos/POO/Herança.md",
+    "Java/POO - Parte 1/Herança e polimorfismo/Polimorfismo pt1.md",
     "Java/POO - Parte 1/Herança e polimorfismo/Herança.md",
     "Java/POO - Parte 1/Materiais de apoio.md",
     "Java/POO - Parte 1/Herança e polimorfismo/Classes e método final.md",
     "Java/POO - Parte 1/Herança e polimorfismo/Upcasting e downcasting.md",
     "Java/POO - Parte 1/Herança e polimorfismo/Sobreposição, super, anotação @override.md",
-    "Java/Resumos/POO/Herança.md",
     "Java/Resumos/POO/Composição.md",
     "Java/POO - Parte 1/Enumerações e composições/Enumerações e composições.md",
-    "PDFs e imgs/polimorfismo1.jpg",
     "PDFs e imgs/upcasting e downcasting.jpg",
     "PDFs e imgs/Sobreposição.jpg",
     "PDFs e imgs/MétodoFinal.jpg",
@@ -196,7 +196,6 @@
     "Livros/As 48 leis do poder/Lei 1.md",
     "Java/Resumos/POO/data-hora.md",
     "Java/POO - Parte 1/data-hora/Introdução.md",
-    "Anotações_cursos_2/Java-Dio/Terminal e Argumentos.md",
-    "Java/POO - Parte 1/memória, arrays e listas/Matrizes.md"
+    "Anotações_cursos_2/Java-Dio/Terminal e Argumentos.md"
   ]
 }
