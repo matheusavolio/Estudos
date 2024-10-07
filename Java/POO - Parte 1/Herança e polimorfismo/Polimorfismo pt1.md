@@ -29,3 +29,8 @@ O polimorfismo significada "Muitas formas", chamamos a mesma operação em vari�
 - A associação do tipo específico com o tipo genérico é feita em tempo de execução ( #Upcasting )
 	- Instanciamos o `SavingsAccount` e atribuímos ela a variável `y` feita em tempo de execução, o compilador não sabe qual o tipo específico da variável `y`, ele vai chamar o método adequado com base no objeto que foi instanciado, e esse instanciação é feita em tempo de execução por meio de um upcasting.
 - O compilador não sabe qual tipo específico a chamada do método `withDraw` está sendo feita(ele só sabe que são duas variáveis tipo `Account`)
+
+### Aula135 - Exercício resolvido #polimorfismo
+
+![[polimorfismo2.jpg]]
+![[polimorfismo3.1.jpg]]
