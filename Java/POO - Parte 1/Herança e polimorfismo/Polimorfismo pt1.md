@@ -32,5 +32,14 @@ O polimorfismo significada "Muitas formas", chamamos a mesma operação em vari�
 
 ### Aula135 - Exercício resolvido #polimorfismo
 
+
 ![[polimorfismo2.jpg]]
 ![[polimorfismo3.1.jpg]]
+
+## Aula136 - Exercício de fixação
+
+![[fixação polimorf_2.jpg]]
+
+
+![[fixação polimorf.jpg]]
+
