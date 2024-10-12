@@ -8,37 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07306f841b8a328c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/POO - Parte 1/Herança e polimorfismo/Polimorfismo pt1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6a6a159be173f37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/POO - Parte 1/Herança e polimorfismo/Classes e métodos abstratas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "988ac49d53830d41",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/POO - Parte 1/Materiais de apoio.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37029b3bf5a443cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/POO - Parte 1/Tratamento de exceções/Introdução sobre exceções.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -121,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/POO - Parte 1/Herança e polimorfismo/Classes e métodos abstratas.md",
+                "file": "Java/POO - Parte 1/Tratamento de exceções/Introdução sobre exceções.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/POO - Parte 1/Herança e polimorfismo/Classes e métodos abstratas.md"
+                "file": "Java/POO - Parte 1/Tratamento de exceções/Introdução sobre exceções.md"
               }
             }
           },
@@ -177,16 +169,22 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "02ec1759d8be77b6",
+  "active": "37029b3bf5a443cb",
   "lastOpenFiles": [
+    "Java/POO - Parte 1/Herança e polimorfismo/Upcasting e downcasting.md",
+    "Java/POO - Parte 1/Tratamento de exceções/Introdução sobre exceções.md",
+    "PDFs e imgs/hierarquiaExceção.jpg",
+    "Roteiro de estudos/Roteiro.md",
+    "Java/POO - Parte 1/Materiais de apoio.md",
+    "PDFs e imgs/09-tratamento-de-excecoes.pdf",
+    "Java/POO - Parte 1/Herança e polimorfismo/Polimorfismo pt1.md",
+    "Java/POO - Parte 1/Tratamento de exceções",
     "PDFs e imgs/fixaçãoAbstract2.jpg",
     "PDFs e imgs/fixaçãoAbstract.jpg",
-    "Roteiro de estudos/Roteiro.md",
     "Java/POO - Parte 1/Herança e polimorfismo/Classes e métodos abstratas.md",
     "PDFs e imgs/exAbstract.jpg",
     "PDFs e imgs/MétodAbstract.jpg",
     "PDFs e imgs/classes abstratas.jpg",
-    "Java/POO - Parte 1/Herança e polimorfismo/Polimorfismo pt1.md",
     "Java/POO - Parte 1/Herança e polimorfismo/Herança.md",
     "PDFs e imgs/fixação polimorf_2.jpg",
     "PDFs e imgs/fixação polimorf.jpg",
@@ -194,17 +192,13 @@
     "Java/POO - Parte 1/memória, arrays e listas/Listas.md",
     "PDFs e imgs/polimorfismo3.1.jpg",
     "PDFs e imgs/polimorfismo2.jpg",
-    "Java/POO - Parte 1/Materiais de apoio.md",
-    "PDFs e imgs/polimorfismo1.jpg",
     "Java/Resumos/POO/Upcasting e Downcasting.md",
     "Java/Resumos/POO/Sobreposição e super.md",
     "Java/Resumos/POO/Herança.md",
     "Java/POO - Parte 1/Herança e polimorfismo/Classes e método final.md",
-    "Java/POO - Parte 1/Herança e polimorfismo/Upcasting e downcasting.md",
     "Java/POO - Parte 1/Herança e polimorfismo/Sobreposição, super, anotação @override.md",
     "Java/Resumos/POO/Composição.md",
     "Java/POO - Parte 1/Enumerações e composições/Enumerações e composições.md",
-    "PDFs e imgs/upcasting e downcasting.jpg",
     "PDFs e imgs/08-heranca-e-polimorfismo.pdf",
     "Java/POO - Parte 1/Herança e polimorfismo",
     "Java/Lógica_Algoritmos_Java/Estrutura de repetição/Estruturas de repetição.md",
@@ -217,13 +211,10 @@
     "PDFs e imgs/Contribuindo em um Projeto Open Source no GitHub.pdf",
     "PDFs e imgs/Curso-Java-COMPLETO.pdf",
     "PDFs e imgs/Curso-Java-COMPLETO 1.pdf",
-    "PDFs e imgs/date-calendar.pdf",
-    "PDFs e imgs/git-guia-basico.pdf",
     "Java/POO - Parte 1/Enumerações e composições/Design.md",
     "Anotações_cursos_2/Java-Dio/Métodos.md",
     "Livros/As 48 leis do poder/Lei 4.md",
     "Livros/As 48 leis do poder/Lei 3.md",
-    "Livros/As 48 leis do poder/Lei 2.md",
-    "Livros/As 48 leis do poder/Lei 1.md"
+    "Livros/As 48 leis do poder/Lei 2.md"
   ]
 }

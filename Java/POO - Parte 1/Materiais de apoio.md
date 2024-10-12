@@ -26,3 +26,7 @@
 
 # Herança e polimorfismo
 ![[08-heranca-e-polimorfismo.pdf]]
+
+
+# Tratamento de exceções 
+![[09-tratamento-de-excecoes.pdf]]
