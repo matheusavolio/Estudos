@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java - Nélio Alves/POO - Parte 1/Tratamento de exceções/Exceções personalizadas.md",
+                "file": "Java - Nélio Alves/POO - Parte 1/Materiais de apoio.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java - Nélio Alves/POO - Parte 1/Tratamento de exceções/Exceções personalizadas.md",
+                "file": "Java - Nélio Alves/POO - Parte 1/Materiais de apoio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java - Nélio Alves/POO - Parte 1/Tratamento de exceções/Exceções personalizadas.md"
+                "file": "Java - Nélio Alves/POO - Parte 1/Materiais de apoio.md"
               }
             }
           },
@@ -169,11 +169,13 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "f50b8a51e372f923",
+  "active": "02ec1759d8be77b6",
   "lastOpenFiles": [
+    "PDFs e imgs/01+Introdução+ao+Git+e+Github+(slides).pdf",
+    "Java - Nélio Alves/POO - Parte 1/Tratamento de exceções/Exceções personalizadas.md",
+    "Java - Nélio Alves/POO - Parte 1/Nivelamento Git e GitHub",
     "Java - Nélio Alves/POO - Parte 1/Tratamento de exceções/Introdução sobre exceções e try-cath.md",
     "Roteiro de estudos/Roteiro.md",
-    "Java - Nélio Alves/POO - Parte 1/Tratamento de exceções/Exceções personalizadas.md",
     "Java - Nélio Alves/POO - Parte 1/data-hora/timezone, ISO8601 instanciando e convertendo.md",
     "Java - Nélio Alves/POO - Parte 1/Materiais de apoio.md",
     "Java - Nélio Alves/POO - Parte 1/data-hora/Operações com data-hora.md",
@@ -211,7 +213,6 @@
     "PDFs e imgs/07-outros-topicos-basicos.pdf",
     "PDFs e imgs/Contribuindo em um Projeto Open Source no GitHub.pdf",
     "PDFs e imgs/Curso-Java-COMPLETO.pdf",
-    "PDFs e imgs/Curso-Java-COMPLETO 1.pdf",
     "Java - Nélio Alves/POO - Parte 1/Enumerações e composições/Design.md",
     "Anotações_cursos_2/Java-Dio/Métodos.md",
     "Livros/As 48 leis do poder/Lei 4.md",
