@@ -42,3 +42,21 @@ catch (ExceptionType name){
 
 }
 ```
+
+## Aula146 - Bloco #finally
+
+- É um bloco que contém um código a ser executado independente de ter ocorrido ou não uma exceção
+- Exemplo clássico: Fechar um arquivo, conexão de banco de dados, ou outro recurso específico ao final do processamento
+
+#### Sintaxe:
+```java
+try{
+// código que pode gerar uma exceção
+}
+catch (ExceptionType name){
+// lógica que é executa caso ocorra uma exceção
+}
+finally{
+// executa sempre ao final do programa, tendo sido gerada uma exceção ou não
+}
+```

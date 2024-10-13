@@ -1,4 +1,5 @@
-# 1° -   aprimorar a calculadora simples em python utilizando todo conteúdo que foi aprendido durante os 3 mundos(principalmente funções, modularização e tratamento de erros) ✅
+- [x]  1° -   aprimorar a calculadora simples em python utilizando todo conteúdo que foi aprendido durante os 3 mundos(principalmente funções, modularização e tratamento de erros) 
+
 https://github.com/matheusavolio/calculadora-basica.git
 
 ---
