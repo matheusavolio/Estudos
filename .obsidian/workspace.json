@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f152efd8e27db1c4",
+        "id": "4de99da9d6ff39d0",
         "type": "tabs",
         "children": [
           {
-            "id": "bf0ce1f0caedeb65",
+            "id": "32c4818197add553",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roteiro de estudos/Roteiro.md",
+                "file": "Java - Nélio Alves/POO - Parte 2/Arquivos/Arquivos .txt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Arquivos .txt"
             }
           }
         ]
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -55,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -63,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -86,10 +94,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roteiro de estudos/Roteiro.md",
+                "file": "Java - Nélio Alves/POO - Parte 2/Arquivos/Arquivos .txt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Arquivos .txt"
             }
           },
           {
@@ -100,7 +110,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -109,8 +121,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roteiro de estudos/Roteiro.md"
-              }
+                "file": "Java - Nélio Alves/POO - Parte 2/Arquivos/Arquivos .txt.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Arquivos .txt"
             }
           },
           {
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -142,8 +158,15 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "bf0ce1f0caedeb65",
+  "active": "32c4818197add553",
   "lastOpenFiles": [
+    "Java - Nélio Alves/POO - Parte 1/Tratamento de exceções/Exceções personalizadas.md",
+    "Java - Nélio Alves/POO - Parte 2/Arquivos/Arquivos .txt.md",
+    "Java - Nélio Alves/POO - Parte 2/Arquivos",
+    "Java - Nélio Alves/POO - Parte 2/Materiais de apoio.md",
+    "PDFs e imgs/11-arquivos.pdf",
+    "Roteiro de estudos/Roteiro.md",
+    "Java - Nélio Alves/POO - Parte 2",
     "Java - Nélio Alves/Projetos/chess-system/Design e material de apoio.md",
     "PDFs e imgs/10-projeto-sistema-xadrez.pdf",
     "PDFs e imgs/chess-system-design.png",
@@ -151,10 +174,8 @@
     "Java - Nélio Alves/Projetos/chess-system",
     "Java - Nélio Alves/Projetos",
     "PDFs e imgs/01+Introdução+ao+Git+e+Github+(slides).pdf",
-    "Java - Nélio Alves/POO - Parte 1/Tratamento de exceções/Exceções personalizadas.md",
     "Java - Nélio Alves/POO - Parte 1/Nivelamento Git e GitHub",
     "Java - Nélio Alves/POO - Parte 1/Tratamento de exceções/Introdução sobre exceções e try-cath.md",
-    "Roteiro de estudos/Roteiro.md",
     "Java - Nélio Alves/POO - Parte 1/data-hora/timezone, ISO8601 instanciando e convertendo.md",
     "Java - Nélio Alves/POO - Parte 1/data-hora/Operações com data-hora.md",
     "PDFs e imgs/exceçãoEx2.jpg",
@@ -181,13 +202,8 @@
     "Java - Nélio Alves/POO - Parte 1/Herança e polimorfismo/Sobreposição, super, anotação @override.md",
     "Java - Nélio Alves/Resumos/POO/Composição.md",
     "Java - Nélio Alves/POO - Parte 1/Enumerações e composições/Enumerações e composições.md",
-    "PDFs e imgs/08-heranca-e-polimorfismo.pdf",
-    "Java - Nélio Alves/POO - Parte 1/Herança e polimorfismo",
     "Java - Nélio Alves/Lógica_Algoritmos_Java/Estrutura de repetição/Estruturas de repetição.md",
     "Java/POO - Parte 1/Enumerações e composições/Enumerações.md",
-    "PDFs e imgs/06-estruturas-repetitivas.pdf",
-    "Java - Nélio Alves/POO - Parte 1/Enumerações e composições/Design.md",
-    "Anotações_cursos_2/Java-Dio/Métodos.md",
-    "Livros/As 48 leis do poder/Lei 4.md"
+    "Java - Nélio Alves/POO - Parte 1/Enumerações e composições/Design.md"
   ]
 }
