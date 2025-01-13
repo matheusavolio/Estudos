@@ -1,0 +1,1 @@
+![[02-primeiros-passos-sobre-planilha-eletronica 1.pdf]]
