@@ -11,10 +11,15 @@
             "id": "32c4818197add553",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Excel/Seção 2/Inserção e exclusão de dados.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Inserção e exclusão de dados"
             }
           }
         ]
@@ -155,11 +160,11 @@
   },
   "active": "32c4818197add553",
   "lastOpenFiles": [
-    "PDFs e imgs/02-primeiros-passos-sobre-planilha-eletronica.pdf",
-    "PDFs e imgs/02-primeiros-passos-sobre-planilha-eletronica 1.pdf",
     "Excel/Seção 2/Materiais de apoio.md",
     "Excel/Seção 2/Inserção e exclusão de dados.md",
     "Excel/Seção 2/Formatação básica de dados.md",
+    "PDFs e imgs/02-primeiros-passos-sobre-planilha-eletronica.pdf",
+    "PDFs e imgs/02-primeiros-passos-sobre-planilha-eletronica 1.pdf",
     "Excel/Seção 2",
     "Excel",
     "Excel/Seção 2/Formatos para exibição de dados.md",
