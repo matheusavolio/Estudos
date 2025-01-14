@@ -11,15 +11,10 @@
             "id": "32c4818197add553",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java - Nélio Alves/POO - Parte 2/Arquivos/File e BufferedWriter.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "File e BufferedWriter"
+              "title": "Nova aba"
             }
           }
         ]
@@ -160,12 +155,23 @@
   },
   "active": "32c4818197add553",
   "lastOpenFiles": [
+    "Excel/Seção 2/Inserção e exclusão de dados.md",
+    "Excel/Seção 2/Formatos para exibição de dados.md",
+    "Excel/Seção 2/Formatação básica de dados.md",
     "Java - Nélio Alves/POO - Parte 2/Arquivos/Exemplos.md",
-    "Java - Nélio Alves/POO - Parte 2/Arquivos/File e BufferedWriter.md",
+    "Excel/Seção 2/Materiais de apoio.md",
+    "PDFs e imgs/02-primeiros-passos-sobre-planilha-eletronica 1.pdf",
+    "PDFs e imgs/02-primeiros-passos-sobre-planilha-eletronica.pdf",
     "Java - Nélio Alves/POO - Parte 2/Arquivos/File, Scanner, Buffered e FileReader.md",
+    "Excel/Seção 2",
+    "Excel",
+    "eSmoke/Metas",
+    "eSmoke",
+    "Java - Nélio Alves/POO - Parte 2/Materiais de apoio.md",
+    "Java - Nélio Alves/POO - Parte 2/Arquivos/File e BufferedWriter.md",
+    "Java - Nélio Alves/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Encapsulamento, Modificadores de acessos.md",
     "Java - Nélio Alves/POO - Parte 1/Tratamento de exceções/Exceções personalizadas.md",
     "PDFs e imgs/11-arquivos.pdf",
-    "Java - Nélio Alves/POO - Parte 2/Materiais de apoio.md",
     "Java - Nélio Alves/POO - Parte 2/Arquivos",
     "Java - Nélio Alves/POO - Parte 2",
     "Roteiro de estudos/Roteiro.md",
@@ -173,10 +179,6 @@
     "PDFs e imgs/10-projeto-sistema-xadrez.pdf",
     "PDFs e imgs/chess-system-design.png",
     "Java - Nélio Alves/POO - Parte 1/Materiais de apoio.md",
-    "Java - Nélio Alves/Projetos/chess-system",
-    "Java - Nélio Alves/Projetos",
-    "PDFs e imgs/01+Introdução+ao+Git+e+Github+(slides).pdf",
-    "Java - Nélio Alves/POO - Parte 1/Nivelamento Git e GitHub",
     "Java - Nélio Alves/POO - Parte 1/Tratamento de exceções/Introdução sobre exceções e try-cath.md",
     "Java - Nélio Alves/POO - Parte 1/data-hora/timezone, ISO8601 instanciando e convertendo.md",
     "Java - Nélio Alves/POO - Parte 1/data-hora/Operações com data-hora.md",
@@ -186,9 +188,7 @@
     "PDFs e imgs/ExExeção.jpg",
     "Java - Nélio Alves/POO - Parte 1/Herança e polimorfismo/Upcasting e downcasting.md",
     "PDFs e imgs/hierarquiaExceção.jpg",
-    "PDFs e imgs/09-tratamento-de-excecoes.pdf",
     "Java - Nélio Alves/POO - Parte 1/Herança e polimorfismo/Polimorfismo pt1.md",
-    "Java - Nélio Alves/POO - Parte 1/Tratamento de exceções",
     "PDFs e imgs/fixaçãoAbstract2.jpg",
     "PDFs e imgs/fixaçãoAbstract.jpg",
     "Java - Nélio Alves/POO - Parte 1/Herança e polimorfismo/Classes e métodos abstratas.md",
@@ -200,11 +200,6 @@
     "Java - Nélio Alves/Resumos/POO/Upcasting e Downcasting.md",
     "Java - Nélio Alves/Resumos/POO/Sobreposição e super.md",
     "Java - Nélio Alves/Resumos/POO/Herança.md",
-    "Java - Nélio Alves/POO - Parte 1/Herança e polimorfismo/Classes e método final.md",
-    "Java - Nélio Alves/POO - Parte 1/Herança e polimorfismo/Sobreposição, super, anotação @override.md",
-    "Java - Nélio Alves/Resumos/POO/Composição.md",
-    "Java - Nélio Alves/POO - Parte 1/Enumerações e composições/Enumerações e composições.md",
-    "Java - Nélio Alves/Lógica_Algoritmos_Java/Estrutura de repetição/Estruturas de repetição.md",
-    "Java/POO - Parte 1/Enumerações e composições/Enumerações.md"
+    "Java - Nélio Alves/POO - Parte 1/Herança e polimorfismo/Classes e método final.md"
   ]
 }
