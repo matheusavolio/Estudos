@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excel/Seção 2/Formatos para exibição de dados.md",
+                "file": "Excel/Seção 2/Inserção e exclusão de dados.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formatos para exibição de dados"
+              "title": "Inserção e exclusão de dados"
             }
           }
         ]
@@ -160,9 +160,9 @@
   },
   "active": "32c4818197add553",
   "lastOpenFiles": [
-    "Excel/Seção 2/Formatação básica de dados.md",
     "Excel/Seção 2/Formatos para exibição de dados.md",
     "Excel/Seção 2/Inserção e exclusão de dados.md",
+    "Excel/Seção 2/Formatação básica de dados.md",
     "Java - Nélio Alves/POO - Parte 2/Arquivos/Exemplos.md",
     "Excel/Seção 2/Materiais de apoio.md",
     "PDFs e imgs/02-primeiros-passos-sobre-planilha-eletronica 1.pdf",
