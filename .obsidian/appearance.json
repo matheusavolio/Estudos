@@ -4,5 +4,6 @@
   "cssTheme": "Obsidian gruvbox",
   "baseFontSizeAction": true,
   "nativeMenus": true,
-  "baseFontSize": 22
+  "baseFontSize": 22,
+  "showRibbon": true
 }
