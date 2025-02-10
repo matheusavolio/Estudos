@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excel/Seção 2/Formatação básica de dados.md",
+                "file": "3° Semestre GTI/Gerenciamento de Projetos/Aula 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Formatação básica de dados"
+              "title": "Aula 1"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e4ddb5f6fce3a050",
@@ -159,10 +160,12 @@
   },
   "active": "32c4818197add553",
   "lastOpenFiles": [
+    "3° Semestre GTI/Gerenciamento de Projetos/Aula 1.md",
+    "Excel/Seção 2/Formatação básica de dados.md",
+    "3° Semestre GTI/Gerenciamento de Projetos",
     "3° Semestre GTI/Gerenciamento de Serviços de Tecnologia da Informação/Aula 1.md",
     "3° Semestre GTI/Gerenciamento de Serviços de Tecnologia da Informação",
     "3° Semestre GTI",
-    "Excel/Seção 2/Formatação básica de dados.md",
     "Excel/Seção 2/Operações aritméticas.md",
     "Excel/Seção 2/Inserção e exclusão de dados.md",
     "Excel/Seção 2/Materiais de apoio.md",
@@ -180,7 +183,6 @@
     "Java - Nélio Alves/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Encapsulamento, Modificadores de acessos.md",
     "Java - Nélio Alves/POO - Parte 1/Tratamento de exceções/Exceções personalizadas.md",
     "PDFs e imgs/11-arquivos.pdf",
-    "Java - Nélio Alves/POO - Parte 2/Arquivos",
     "Roteiro de estudos/Roteiro.md",
     "Java - Nélio Alves/Projetos/chess-system/Design e material de apoio.md",
     "PDFs e imgs/chess-system-design.png",
