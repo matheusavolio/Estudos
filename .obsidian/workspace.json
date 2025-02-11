@@ -11,15 +11,10 @@
             "id": "32c4818197add553",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3° Semestre GTI/Gerenciamento de Projetos/Aula 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Aula 1"
+              "title": "New tab"
             }
           }
         ]
@@ -157,15 +152,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "32c4818197add553",
+  "active": "02ec1759d8be77b6",
   "lastOpenFiles": [
+    "3° Semestre GTI/Gerenciamento de Projetos/Aula 1.md",
     "PDFs e imgs/Diagram.svg",
     "PDFs e imgs/02-primeiros-passos-sobre-planilha-eletronica 1.pdf",
     "PDFs e imgs/02-exercicios1-estrutura-sequencial (1).pdf",
     "PDFs e imgs/01+Introdução+ao+Git+e+Github+(slides).pdf",
     "Excalidraw/TesteMesaWhile.png",
     "Excalidraw/TesteDeMesaFor.png",
-    "3° Semestre GTI/Gerenciamento de Projetos/Aula 1.md",
     "3° Semestre GTI/Gerenciamento de Serviços de Tecnologia da Informação/Aula 1.md",
     "Excel/Seção 2/Formatação básica de dados.md",
     "3° Semestre GTI/Gerenciamento de Projetos",
@@ -200,7 +195,6 @@
     "PDFs e imgs/hierarquiaExceção.jpg",
     "Java - Nélio Alves/POO - Parte 1/Herança e polimorfismo/Polimorfismo pt1.md",
     "PDFs e imgs/fixaçãoAbstract2.jpg",
-    "PDFs e imgs/fixaçãoAbstract.jpg",
     "Java - Nélio Alves/POO - Parte 1/Herança e polimorfismo/Classes e métodos abstratas.md",
     "Java - Nélio Alves/POO - Parte 1/Herança e polimorfismo/Herança.md",
     "Java - Nélio Alves/POO - Parte 1/memória, arrays e listas/for each.md",
