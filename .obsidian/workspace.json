@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e4ddb5f6fce3a050",
@@ -160,10 +159,16 @@
   },
   "active": "32c4818197add553",
   "lastOpenFiles": [
+    "PDFs e imgs/Diagram.svg",
+    "PDFs e imgs/02-primeiros-passos-sobre-planilha-eletronica 1.pdf",
+    "PDFs e imgs/02-exercicios1-estrutura-sequencial (1).pdf",
+    "PDFs e imgs/01+Introdução+ao+Git+e+Github+(slides).pdf",
+    "Excalidraw/TesteMesaWhile.png",
+    "Excalidraw/TesteDeMesaFor.png",
     "3° Semestre GTI/Gerenciamento de Projetos/Aula 1.md",
+    "3° Semestre GTI/Gerenciamento de Serviços de Tecnologia da Informação/Aula 1.md",
     "Excel/Seção 2/Formatação básica de dados.md",
     "3° Semestre GTI/Gerenciamento de Projetos",
-    "3° Semestre GTI/Gerenciamento de Serviços de Tecnologia da Informação/Aula 1.md",
     "3° Semestre GTI/Gerenciamento de Serviços de Tecnologia da Informação",
     "3° Semestre GTI",
     "Excel/Seção 2/Operações aritméticas.md",
@@ -171,18 +176,15 @@
     "Excel/Seção 2/Materiais de apoio.md",
     "Excel/Seção 2/Formatos para exibição de dados.md",
     "Java - Nélio Alves/POO - Parte 2/Arquivos/Exemplos.md",
-    "PDFs e imgs/02-primeiros-passos-sobre-planilha-eletronica 1.pdf",
     "PDFs e imgs/02-primeiros-passos-sobre-planilha-eletronica.pdf",
     "Java - Nélio Alves/POO - Parte 2/Arquivos/File, Scanner, Buffered e FileReader.md",
     "Excel/Seção 2",
     "Excel",
     "eSmoke/Metas",
-    "eSmoke",
     "Java - Nélio Alves/POO - Parte 2/Materiais de apoio.md",
     "Java - Nélio Alves/POO - Parte 2/Arquivos/File e BufferedWriter.md",
     "Java - Nélio Alves/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Encapsulamento, Modificadores de acessos.md",
     "Java - Nélio Alves/POO - Parte 1/Tratamento de exceções/Exceções personalizadas.md",
-    "PDFs e imgs/11-arquivos.pdf",
     "Roteiro de estudos/Roteiro.md",
     "Java - Nélio Alves/Projetos/chess-system/Design e material de apoio.md",
     "PDFs e imgs/chess-system-design.png",
@@ -200,11 +202,8 @@
     "PDFs e imgs/fixaçãoAbstract2.jpg",
     "PDFs e imgs/fixaçãoAbstract.jpg",
     "Java - Nélio Alves/POO - Parte 1/Herança e polimorfismo/Classes e métodos abstratas.md",
-    "PDFs e imgs/exAbstract.jpg",
-    "PDFs e imgs/MétodAbstract.jpg",
     "Java - Nélio Alves/POO - Parte 1/Herança e polimorfismo/Herança.md",
     "Java - Nélio Alves/POO - Parte 1/memória, arrays e listas/for each.md",
-    "Java - Nélio Alves/POO - Parte 1/memória, arrays e listas/Listas.md",
-    "Java - Nélio Alves/Resumos/POO/Upcasting e Downcasting.md"
+    "Java - Nélio Alves/POO - Parte 1/memória, arrays e listas/Listas.md"
   ]
 }

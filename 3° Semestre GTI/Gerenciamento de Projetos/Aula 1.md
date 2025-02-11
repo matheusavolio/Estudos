@@ -26,3 +26,5 @@ O planejamento é composto por 10 áreas
 7. Riscos(Planos de contingência)
 8. Aquisições(Compras)
 9. Partes interessadas
+
+A responsabilidade é sempre do gerente de projetos.
