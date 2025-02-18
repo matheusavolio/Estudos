@@ -25,13 +25,17 @@ O planejamento é composto por 10 áreas
 6. Comunicação
 7. Riscos(Planos de contingência)
 8. Aquisições(Compras)
-9. Partes interessadas
+9. Partes interessadas(investidores)
+10. Integração
 
 A responsabilidade é sempre do gerente de projetos.
 
-
 ### Objetivo: Qualitativo
 ### Meta: Quantitativo
+
 Apontar o caminho é *estratégia* para atingir o objetivo
 
 O custo do trabalho é muito maior do que o custo do planejamento, um trabalho mal planejado gera retrabalho, retrabalho gera prejuízo.
+
+O que é o *PMI*?
+Os 5 grupos de processos e as 10 áreas de conhecimento
