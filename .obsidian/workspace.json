@@ -4,30 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4de99da9d6ff39d0",
+        "id": "e7abc9089b95da9a",
         "type": "tabs",
         "children": [
           {
-            "id": "32c4818197add553",
+            "id": "f06c642f96f5f316",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Excel/Seção 2/Formatação básica de dados.md",
-=======
-                "file": "Java - Nélio Alves/POO - Parte 2/Arquivos/File, Scanner, Buffered e FileReader.md",
->>>>>>> dev
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Formatação básica de dados"
-=======
-              "title": "File, Scanner, Buffered e FileReader"
->>>>>>> dev
+              "title": "Nova aba"
             }
           }
         ]
@@ -49,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -166,23 +154,24 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "32c4818197add553",
+  "active": "f06c642f96f5f316",
   "lastOpenFiles": [
-<<<<<<< HEAD
-=======
+    "Excel/Seção 3/Material de Apoio.md",
+    "03-projeto-recibo-de-pagamento-autonomo.pdf",
+    "Excel/Seção 2/Múltiplas Planilhas.md",
+    "Excel/Seção 3",
+    "Excel/Seção 2/Operações aritméticas.md",
+    "Excel/Seção 2/Materiais de apoio.md",
+    "Excel/Seção 2/Inserção e exclusão de dados.md",
+    "Excel/Seção 2/Formatação básica de dados.md",
+    "Java - Nélio Alves/POO - Parte 2/Arquivos/File, Scanner, Buffered e FileReader.md",
     "Java - Nélio Alves/POO - Parte 2/Arquivos/Exercício Arquivos.md",
     "Java - Nélio Alves/POO - Parte 2/Materiais de apoio.md",
     "PDFs e imgs/Pasted image 20250129230625.png",
->>>>>>> dev
-    "Excel/Seção 2/Operações aritméticas.md",
-    "Excel/Seção 2/Formatação básica de dados.md",
-    "Excel/Seção 2/Inserção e exclusão de dados.md",
-    "Excel/Seção 2/Materiais de apoio.md",
     "Excel/Seção 2/Formatos para exibição de dados.md",
     "Java - Nélio Alves/POO - Parte 2/Arquivos/Exemplos.md",
     "PDFs e imgs/02-primeiros-passos-sobre-planilha-eletronica 1.pdf",
     "PDFs e imgs/02-primeiros-passos-sobre-planilha-eletronica.pdf",
-    "Java - Nélio Alves/POO - Parte 2/Arquivos/File, Scanner, Buffered e FileReader.md",
     "Excel/Seção 2",
     "Excel",
     "eSmoke/Metas",
@@ -192,10 +181,8 @@
     "Java - Nélio Alves/POO - Parte 1/Tratamento de exceções/Exceções personalizadas.md",
     "PDFs e imgs/11-arquivos.pdf",
     "Java - Nélio Alves/POO - Parte 2/Arquivos",
-    "Java - Nélio Alves/POO - Parte 2",
     "Roteiro de estudos/Roteiro.md",
     "Java - Nélio Alves/Projetos/chess-system/Design e material de apoio.md",
-    "PDFs e imgs/10-projeto-sistema-xadrez.pdf",
     "PDFs e imgs/chess-system-design.png",
     "Java - Nélio Alves/POO - Parte 1/Materiais de apoio.md",
     "Java - Nélio Alves/POO - Parte 1/Tratamento de exceções/Introdução sobre exceções e try-cath.md",
@@ -213,8 +200,6 @@
     "Java - Nélio Alves/POO - Parte 1/Herança e polimorfismo/Classes e métodos abstratas.md",
     "PDFs e imgs/exAbstract.jpg",
     "Java - Nélio Alves/POO - Parte 1/Herança e polimorfismo/Herança.md",
-    "Java - Nélio Alves/POO - Parte 1/memória, arrays e listas/for each.md",
-    "Java - Nélio Alves/POO - Parte 1/memória, arrays e listas/Listas.md",
-    "Java - Nélio Alves/Resumos/POO/Upcasting e Downcasting.md"
+    "Java - Nélio Alves/POO - Parte 1/memória, arrays e listas/for each.md"
   ]
 }
