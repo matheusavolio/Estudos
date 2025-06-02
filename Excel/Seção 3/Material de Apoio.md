@@ -1,0 +1,1 @@
+![[03-projeto-recibo-de-pagamento-autonomo.pdf]]
