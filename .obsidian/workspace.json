@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excel/Seção 2/Operações aritméticas.md",
+                "file": "Java - Nélio Alves/POO - Parte 2/Arquivos/File, Scanner, Buffered e FileReader.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operações aritméticas"
+              "title": "File, Scanner, Buffered e FileReader"
             }
           }
         ]
@@ -160,8 +160,11 @@
   },
   "active": "32c4818197add553",
   "lastOpenFiles": [
-    "Excel/Seção 2/Formatação básica de dados.md",
+    "Java - Nélio Alves/POO - Parte 2/Arquivos/Exercício Arquivos.md",
+    "Java - Nélio Alves/POO - Parte 2/Materiais de apoio.md",
+    "PDFs e imgs/Pasted image 20250129230625.png",
     "Excel/Seção 2/Operações aritméticas.md",
+    "Excel/Seção 2/Formatação básica de dados.md",
     "Excel/Seção 2/Inserção e exclusão de dados.md",
     "Excel/Seção 2/Materiais de apoio.md",
     "Excel/Seção 2/Formatos para exibição de dados.md",
@@ -173,7 +176,6 @@
     "Excel",
     "eSmoke/Metas",
     "eSmoke",
-    "Java - Nélio Alves/POO - Parte 2/Materiais de apoio.md",
     "Java - Nélio Alves/POO - Parte 2/Arquivos/File e BufferedWriter.md",
     "Java - Nélio Alves/POO - Parte 1/Construtores, this, sobrecarga, encapsulamento/Encapsulamento, Modificadores de acessos.md",
     "Java - Nélio Alves/POO - Parte 1/Tratamento de exceções/Exceções personalizadas.md",
@@ -199,12 +201,9 @@
     "PDFs e imgs/fixaçãoAbstract.jpg",
     "Java - Nélio Alves/POO - Parte 1/Herança e polimorfismo/Classes e métodos abstratas.md",
     "PDFs e imgs/exAbstract.jpg",
-    "PDFs e imgs/MétodAbstract.jpg",
     "Java - Nélio Alves/POO - Parte 1/Herança e polimorfismo/Herança.md",
     "Java - Nélio Alves/POO - Parte 1/memória, arrays e listas/for each.md",
     "Java - Nélio Alves/POO - Parte 1/memória, arrays e listas/Listas.md",
-    "Java - Nélio Alves/Resumos/POO/Upcasting e Downcasting.md",
-    "Java - Nélio Alves/Resumos/POO/Sobreposição e super.md",
-    "Java - Nélio Alves/Resumos/POO/Herança.md"
+    "Java - Nélio Alves/Resumos/POO/Upcasting e Downcasting.md"
   ]
 }
