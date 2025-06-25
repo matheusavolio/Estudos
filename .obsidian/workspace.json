@@ -21,24 +21,8 @@
               "icon": "lucide-file",
               "title": "Material de Apoio"
             }
-          },
-          {
-            "id": "c87493aaffed6988",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Excel/Seção 4/Imagens, Formas, Largura e Altura - Aula 35.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Imagens, Formas, Largura e Altura - Aula 35"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,11 +159,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c87493aaffed6988",
+  "active": "f06c642f96f5f316",
   "lastOpenFiles": [
+    "Excel/Seção 4/Formatação Condicional - Aula 40 e 41.md",
+    "Excel/Seção 4/Autopreenchimento - Aulas 38 e 39.md",
+    "Excel/Seção 4/Inserir Hiperlinks - Aula 37.md",
+    "Excel/Seção 4/Imagens, Formas, Largura e Altura - Aula 35-36.md",
     "Excel/Seção 4/Material de Apoio.md",
     "PDFs e imgs/04-mais-topicos-de-edicao-formatacao.pdf",
-    "Excel/Seção 4/Imagens, Formas, Largura e Altura - Aula 35.md",
     "AWS/Segurança nuvem AWS/Seção 2 - AWS IAM.md",
     "AWS/Segurança nuvem AWS/Seção 1 - Modelo de responsabilidade compartilhada da AWS.md",
     "Excel/Seção 2/Aula 16 - Trancamento.md",
@@ -212,8 +199,6 @@
     "PDFs e imgs/chess-system-design.png",
     "Java - Nélio Alves/POO - Parte 1/Materiais de apoio.md",
     "Java - Nélio Alves/POO - Parte 1/Tratamento de exceções/Introdução sobre exceções e try-cath.md",
-    "Java - Nélio Alves/POO - Parte 1/data-hora/timezone, ISO8601 instanciando e convertendo.md",
-    "Java - Nélio Alves/POO - Parte 1/data-hora/Operações com data-hora.md",
     "PDFs e imgs/exceçãoEx2.jpg",
     "PDFs e imgs/exceçãoEx.jpg",
     "PDFs e imgs/model package.jpg",
