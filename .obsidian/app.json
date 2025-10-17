@@ -8,5 +8,6 @@
   "showIndentGuide": true,
   "defaultViewMode": "preview",
   "livePreview": true,
-  "foldHeading": false
+  "foldHeading": false,
+  "promptDelete": false
 }
